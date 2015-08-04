@@ -19936,3 +19936,237 @@ Browse[2]> lmcoefFt
           I(T^4) 
  1.505601415e-04 
 Browse[2]> 
+Browse[2]> Q
+> dmodes()
+            Object           Mode   Rows Cols Len    Date   
+  1 ais                   dataframe 202   13   13 NA/NA/NA  
+  2 barolo                dataframe 307   5     5 NA/NA/NA  
+  3 plot.developSN        function  --    --    1 NA/NA/NA  
+  4 wines                 dataframe 178   28   28 NA/NA/NA  
+  5 FlongHost             function  --    --    1 14/11/2014
+  6 FlongNohost           function  --    --    1 14/11/2014
+  7 HostNohost            function  --    --    1 14/11/2014
+  8 maleLong              function  --    --    1 14/11/2014
+  9 nohost.aov            list      --    --   13 14/11/2014
+ 10 offspringNo           function  --    --    1 14/11/2014
+ 11 plot.offspring        function  --    --    1 14/11/2014
+ 12 adultEmerg14.df       dataframe 839   5     5 04/11/2014
+ 13 day.pred14F           list      --    --    4 04/11/2014
+ 14 day.pred14M           list      --    --    4 04/11/2014
+ 15 daysD14.aovF          list      --    --   13 04/11/2014
+ 16 daysD14.aovM          list      --    --   13 04/11/2014
+ 17 daysD14.dfF           dataframe 8     4     4 04/11/2014
+ 18 daysD14.dfM           dataframe 8     4     4 04/11/2014
+ 19 daysE14.aov           list      --    --   13 04/11/2014
+ 20 daysE14.aovF          list      --    --   13 04/11/2014
+ 21 daysE14.aovM          list      --    --   13 04/11/2014
+ 22 daysE14.dfF           dataframe 9     4     4 04/11/2014
+ 23 daysE14.dfM           dataframe 9     4     4 04/11/2014
+ 24 daysE14.lm            list      --    --   13 04/11/2014
+ 25 daysE14.predF         list      --    --    4 04/11/2014
+ 26 daysE14.predM         list      --    --    4 04/11/2014
+ 27 days.lm14             list      --    --   13 04/11/2014
+ 28 ff                    dataframe 343   2     2 04/11/2014
+ 29 lengthD14.dfF         dataframe 8     4     4 04/11/2014
+ 30 lengthD14.dfM         dataframe 8     4     4 04/11/2014
+ 31 lengthE14.aov         list      --    --   13 04/11/2014
+ 32 lengthE14.aovF        list      --    --   13 04/11/2014
+ 33 lengthE14.aovM        list      --    --   13 04/11/2014
+ 34 lengthE14.dfF         dataframe 9     4     4 04/11/2014
+ 35 lengthE14.dfM         dataframe 9     4     4 04/11/2014
+ 36 lengthE14.lm          list      --    --   13 04/11/2014
+ 37 lengthE14.predF       list      --    --    4 04/11/2014
+ 38 lengthE14.predM       list      --    --    4 04/11/2014
+ 39 len.pred14F           list      --    --    4 04/11/2014
+ 40 len.pred14M           list      --    --    4 04/11/2014
+ 41 lookseePlots2         function  --    --    1 04/11/2014
+ 42 mm                    dataframe 343   2     2 04/11/2014
+ 43 mm.aov                list      --    --   13 04/11/2014
+ 44 plot.parasite         function  --    --    1 04/11/2014
+ 45 TT                    dataframe 6     3     3 04/11/2014
+ 46 day.pred14            list      --    --    4 29/10/2014
+ 47 days.aov14            list      --    --   13 29/10/2014
+ 48 emerge14.df           dataframe 116   7     7 29/10/2014
+ 49 emerge.glms14         function  --    --    1 29/10/2014
+ 50 len.agg14.df          dataframe 16    5     5 29/10/2014
+ 51 lengthD14.aov         list      --    --   13 29/10/2014
+ 52 lengthD14.aovF        list      --    --   13 29/10/2014
+ 53 lengthD14.aovM        list      --    --   13 29/10/2014
+ 54 lengthD14.df          dataframe 16    4     4 29/10/2014
+ 55 lengthD14.lm          list      --    --   13 29/10/2014
+ 56 lengthD.aov           list      --    --   13 29/10/2014
+ 57 lengthD.lm            list      --    --   13 29/10/2014
+ 58 length.lm14           list      --    --   13 29/10/2014
+ 59 len.pred14            list      --    --    4 29/10/2014
+ 60 long.emerge14.df      dataframe 464   5     5 29/10/2014
+ 61 new14.df              dataframe 16    4     4 29/10/2014
+ 62 newL14.df             dataframe 16    2     2 29/10/2014
+ 63 plot.developC2_Na     function  --    --    1 23/10/2014
+ 64 devel14.df            dataframe 437   5     5 21/10/2014
+ 65 plot.developB_N       function  --    --    1 21/10/2014
+ 66 plot.developC2_N      function  --    --    1 21/10/2014
+ 67 repos                 character --    --    2 21/10/2014
+ 68 OffDev.predMf         list      --    --    4 20/05/2013
+ 69 OffDev.predMf.df      dataframe 3     5     5 20/05/2013
+ 70 OffDev.predMm         list      --    --    4 20/05/2013
+ 71 OffDev.predMm.df      dataframe 3     5     5 20/05/2013
+ 72 OffSize.aov           list      --    --   13 20/05/2013
+ 73 OffSizeMf.aov         list      --    --   13 20/05/2013
+ 74 OffSizeMm.aov         list      --    --   13 20/05/2013
+ 75 OffSize.predAll.df    dataframe 9     5     5 20/05/2013
+ 76 OffSize.predMf        list      --    --    4 20/05/2013
+ 77 OffSize.predMf.df     dataframe 3     5     5 20/05/2013
+ 78 OffSize.predMm        list      --    --    4 20/05/2013
+ 79 OffSize.predMm.df     dataframe 3     5     5 20/05/2013
+ 80 OffSize.predV         list      --    --    4 20/05/2013
+ 81 OffSize.predV.df      dataframe 3     5     5 20/05/2013
+ 82 OffSizeV.aov          list      --    --   13 20/05/2013
+ 83 combined.df           dataframe 265   8     8 17/05/2013
+ 84 FfecAOV.pred          list      --    --    4 17/05/2013
+ 85 FfecPredAOV           dataframe 3     3     3 17/05/2013
+ 86 FoffAOV.pred          list      --    --    4 17/05/2013
+ 87 FoffH.aov             list      --    --   13 17/05/2013
+ 88 FoffPredAOV           dataframe 3     3     3 17/05/2013
+ 89 lookseePlots          function  --    --    1 17/05/2013
+ 90 MlongPredAOV          dataframe 3     3     3 17/05/2013
+ 91 Mtib.aov              list      --    --   13 17/05/2013
+ 92 MtibAOV.pred          list      --    --    4 17/05/2013
+ 93 MtibPredAOV           dataframe 3     3     3 17/05/2013
+ 94 offspring.df          dataframe 60    11   11 17/05/2013
+ 95 offspring.df1         dataframe 300   3     3 17/05/2013
+ 96 parasitised.df        dataframe 60    11   11 17/05/2013
+ 97 parasitised.df1       dataframe 300   3     3 17/05/2013
+ 98 parasitised.df2       dataframe 35    70   70 17/05/2013
+ 99 xyT                   list      --    --    3 17/05/2013
+100 dietsOff.df           dataframe 9     3     3 16/05/2013
+101 dietsOff.dfM          dataframe 6     3     3 16/05/2013
+102 dietsOff.dfMf         dataframe 3     3     3 16/05/2013
+103 dietsOff.dfMm         dataframe 3     3     3 16/05/2013
+104 dietsOff.dfV          dataframe 3     3     3 16/05/2013
+105 FlongH.aov            list      --    --   13 16/05/2013
+106 OffDev.aov            list      --    --   13 16/05/2013
+107 OffDevM.aov           list      --    --   13 16/05/2013
+108 OffDevMf.aov          list      --    --   13 16/05/2013
+109 OffDevMm.aov          list      --    --   13 16/05/2013
+110 OffDev.pred           list      --    --    4 16/05/2013
+111 OffDev.predAll.df     dataframe 9     5     5 16/05/2013
+112 OffDev.pred.df        dataframe 9     5     5 16/05/2013
+113 OffDev.predM          list      --    --    4 16/05/2013
+114 OffDev.predM.df       dataframe 6     5     5 16/05/2013
+115 OffDev.predV          list      --    --    4 16/05/2013
+116 OffDev.predV.df       dataframe 3     5     5 16/05/2013
+117 OffDevV.aov           list      --    --   13 16/05/2013
+118 dietsH.df             dataframe 3     1     1 15/05/2013
+119 dietsNH.df            dataframe 4     1     1 15/05/2013
+120 FfecH.aov             list      --    --   13 15/05/2013
+121 Flong.aov             list      --    --   13 15/05/2013
+122 FlongHost.df          dataframe 62    7     7 15/05/2013
+123 FlongNH.pred.df       dataframe 4     3     3 15/05/2013
+124 FlongNohost.df        dataframe 203   4     4 15/05/2013
+125 Flong.pred            list      --    --    4 15/05/2013
+126 FlongTib.aov          list      --    --   12 15/05/2013
+127 FoffH.glm             list      --    --   30 15/05/2013
+128 FoffHQ.glm            list      --    --   30 15/05/2013
+129 FoffNB.glm            list      --    --   30 15/05/2013
+130 FoffNB.pred           list      --    --    3 15/05/2013
+131 FoffPred              dataframe 3     2     2 15/05/2013
+132 Mlong.aov             list      --    --   13 15/05/2013
+133 MlongAOV.pred         list      --    --    4 15/05/2013
+134 Mlong.df              dataframe 29    3     3 15/05/2013
+135 offspringDevMating.df dataframe 1062  5     5 15/05/2013
+136 offspringDevM.df      dataframe 737   5     5 15/05/2013
+137 offspringDevV.df      dataframe 637   5     5 15/05/2013
+138 offspringNo.df        dataframe 1374  5     5 15/05/2013
+139 FdaysE.aov            list      --    --   13 08/05/2013
+140 FdaysE.df             dataframe 6     4     4 08/05/2013
+141 FlengthE.aov          list      --    --   13 08/05/2013
+142 FlengthE.df           dataframe 6     4     4 08/05/2013
+143 lengthD.df            dataframe 6     4     4 08/05/2013
+144 lengthE.aov           list      --    --   13 08/05/2013
+145 len.pred              list      --    --    4 08/05/2013
+146 MdaysE.aov            list      --    --   13 08/05/2013
+147 MdaysE.df             dataframe 6     4     4 08/05/2013
+148 MlengthE.aov          list      --    --   13 08/05/2013
+149 MlengthE.df           dataframe 6     4     4 08/05/2013
+150 newES.df              dataframe 6     1     1 08/05/2013
+151 newL.df               dataframe 6     1     1 08/05/2013
+152 emerge.glms           function  --    --    1 07/05/2013
+153 aa                    dataframe 553   5     5 03/05/2013
+154 adultEmerg.df         dataframe 553   5     5 03/05/2013
+155 day.pred              list      --    --    4 03/05/2013
+156 day.predE             list      --    --    4 03/05/2013
+157 day.predE_C           list      --    --    4 03/05/2013
+158 daysE_C.df            dataframe 12    4     4 03/05/2013
+159 daysE_C.lm            list      --    --   13 03/05/2013
+160 daysE.df              dataframe 12    4     4 03/05/2013
+161 daysE.lm              list      --    --   13 03/05/2013
+162 days.lm               list      --    --   13 03/05/2013
+163 FadultEmerg.df        dataframe 210   5     5 03/05/2013
+164 len.agg.df            dataframe 6     4     4 03/05/2013
+165 length.df             dataframe 6     4     4 03/05/2013
+166 lengthE_C.df          dataframe 12    4     4 03/05/2013
+167 lengthE_C.lm          list      --    --   13 03/05/2013
+168 lengthE.df            dataframe 12    4     4 03/05/2013
+169 lengthE.lm            list      --    --   13 03/05/2013
+170 length.lm             list      --    --   13 03/05/2013
+171 len.predE             list      --    --    4 03/05/2013
+172 len.predE_C           list      --    --    4 03/05/2013
+173 MadultEmerg.df        dataframe 343   5     5 03/05/2013
+174 new.df                dataframe 12    4     4 03/05/2013
+175 newE_C.df             dataframe 12    2     2 03/05/2013
+176 newE.df               dataframe 12    2     2 03/05/2013
+177 plot.developC         function  --    --    1 30/04/2013
+178 plot.developC2        function  --    --    1 30/04/2013
+179 plot.developB         function  --    --    1 26/04/2013
+180 plot.developB2        function  --    --    1 26/04/2013
+181 emerge.df             dataframe 75    7     7 24/04/2013
+182 long.emerge.df        dataframe 300   5     5 24/04/2013
+183 adult.glm             list      --    --   30 19/04/2013
+184 adult.glmQ            list      --    --   30 19/04/2013
+185 cocoon.glm            list      --    --   30 19/04/2013
+186 cocoon.glmQ           list      --    --   30 19/04/2013
+187 larvae.glm            list      --    --   30 19/04/2013
+188 larvae.glmNB          list      --    --   31 19/04/2013
+189 larvae.glmQ           list      --    --   30 19/04/2013
+190 plot.develop          function  --    --    1 19/04/2013
+191 plot.develop2         function  --    --    1 19/04/2013
+192 plot.developA         function  --    --    1 19/04/2013
+193 unemerg.glm           list      --    --   30 19/04/2013
+194 unemerg.glmNB         list      --    --   31 19/04/2013
+195 unemerg.glmQ          list      --    --   30 19/04/2013
+196 check.nb              function  --    --    1 21/03/2013
+197 get.pred13            function  --    --    1 21/03/2013
+198 sex.check             function  --    --    1 21/03/2013
+199 Size.df               dataframe 6     4     4 21/03/2013
+200 size.fit.df           dataframe 6     5     5 21/03/2013
+201 Convictions           numeric   2     2     4 06/03/2013
+202 devel.df              dataframe 310   5     5 06/03/2013
+203 fish                  function  --    --    1 06/03/2013
+204 length.aov            list      --    --   13 06/03/2013
+205 length.lm2            list      --    --   11 06/03/2013
+206 length.oav            list      --    --   13 06/03/2013
+Warning messages:
+1: In dmodes() : NAs introduced by coercion
+2: In dmodes() : NAs introduced by coercion
+3: In dmodes() : NAs introduced by coercion
+> dmodes(,,8)
+      Object        Mode   Rows Cols Len    Date   
+1 ais            dataframe  202  13   13 NA/NA/NA  
+2 barolo         dataframe  307  5     5 NA/NA/NA  
+3 plot.developSN function   --   --    1 NA/NA/NA  
+4 wines          dataframe  178  28   28 NA/NA/NA  
+5 FlongHost      function   --   --    1 14/11/2014
+6 FlongNohost    function   --   --    1 14/11/2014
+7 HostNohost     function   --   --    1 14/11/2014
+8 maleLong       function   --   --    1 14/11/2014
+Warning messages:
+1: In dmodes(, , 8) : NAs introduced by coercion
+2: In dmodes(, , 8) : NAs introduced by coercion
+3: In dmodes(, , 8) : NAs introduced by coercion
+> rm(ais, barolo, wines)
+> tidy()
+Now you can add the date comments to 1 object using:
+ source('add.dates.sc') 
+Now you can write 1 function using:
+source('write.fn.src')
+> 
