@@ -13,6 +13,10 @@ plot.developC2_Na(hilin = 22, post = FALSE)
 plot.developC2_Na(hilin = 24, post = FALSE)
 
 
+### Tried skew-normal
+plot.developSN() # up the wrong tree completely
+
+
 ## Tab development time (and tibia length)
 devel14.df$TempNom <- factor(devel14.df$TempNom)
 

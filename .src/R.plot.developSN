@@ -1,4 +1,10 @@
-plot.developSN <- function(xx = devel14.df, post = TRUE,
+  Listing of: plot.developSN
+  Located in: /home/hrapgc/Rstuff/Bioprotection/asha/mastrus/paper
+Last updated: 04/08/2015 
+**************************************
+
+plot.developSN <-
+structure(function(xx = devel14.df, post = TRUE,
            rnd = 7, check.rounding = FALSE, hilin = 24)
 {
 ### Purpose:- Skewed-normal fit
@@ -401,5 +407,4 @@ plot(T.pred, dev.predF/10, type = "l")
     invisible()
     use.df[1000:1020,]
   }
-}
-
+}, comment = "04/08/2015")

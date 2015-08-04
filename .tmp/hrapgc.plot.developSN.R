@@ -15,6 +15,7 @@ plot.developSN <- function(xx = devel14.df, post = TRUE,
   require(reshape2)
   require(sn)
   require(stringr)
+  require(dplyr)
   require(plyr)
   require(RColorBrewer)
   require(nlmrt)
@@ -44,9 +45,117 @@ plot.developSN <- function(xx = devel14.df, post = TRUE,
   xxM <- xx[xx$Sex == "M",] ## subset won't work with nlxb()
   xxF <- xx[xx$Sex == "F",]
   browser()
-  ff <- with(xxF, selm(Dev ~ T))
+  selmF <- with(xxF, selm(Dev ~ T))
+  selmM <- with(xxM, selm(Dev ~ T))
+  summary(selmF)
+  summary(selmM)
+  coefF <- coef(selmF, param.type="DP")
+  coefM <- coef(selmM, param.type="DP")
+
+  
+  
+  selmFt <- with(xxF, selm(Dev ~ T, family = "ST", method="MPLE"))
+  selmMt <- with(xxM, selm(Dev ~ T, family = "ST", method="MPLE"))
+  coef(selmFt, param.type="DP")
+  coef(selmMt, param.type="DP")
+  coefFt <- coef(selmFt, param.type="DP")
+  betaF <- coefFt#[1:2]
+  T.pred <- seq(1, 35, length=51)
+  dev.predF <- cbind(1, T.pred) %*% betaF
 
 
+
+  
+  summary(selmFt, param.type="DP")
+  summary(selmMt, param.type="DP")
+  plot(selmFt, which = 2, param.type="DP")
+  plot(selmMt, which = 2, param.type="DP")
+ 
+extractSECdistr(selmFt)
+
+
+## t 
+  selmFt <- with(xxF, selm(Dev*1000 ~ T + I(T^2 + I(T^3) + I(T^4) + I(T^5), family = "ST")))
+  selmMt <- with(xxM, selm(Dev ~ T, family = "ST"))
+  summary(selmFt, param.type="DP")
+  coefFt <- coef(selmFt, param.type="DP")
+  betaF <- coefFt[1:5]
+  T.pred <- seq(1, 35, length=51)
+dev.predF <- cbind(1, T.pred, T.pred^2, T.pred^3, T.pred^4) %*% betaF
+plot(T.pred, dev.predF/10, type = "l")
+
+  selmFt <- with(xxF, selm(Dev*1000 ~ T + I(T^2) + I(T^3) + I(T^4), family = "ST"))
+  summary(selmFt, param.type="DP")
+  coefFt <- coef(selmFt, param.type="DP")
+  betaF <- coefFt[1:5]
+  T.pred <- seq(9, 40, length=70)
+  dev.predF <- cbind(1, T.pred, T.pred^2, T.pred^3, T.pred^4) %*% betaF
+  predF.df <- data.frame(T = T.pred, Dev = dev.predF)
+  predF.df <- predF.df %>% filter(Dev > 0)
+  
+  plot(Dev/1000 ~ T, type = "l", data = predF.df)
+
+  lmFt <- with(xxF, lm(Dev*1000 ~ T + I(T^2) + I(T^3) + I(T^4)))
+  lmFt2 <- with(xxF, lm(Dev*1000 ~ T + poly(T, degree =4, raw = TRUE)))
+  lmcoefFt <- coef(lmFt)
+  lmcoefFt2 <- coef(lmFt2)
+  betaFlm <- lmcoefFt[1:5]
+  T.pred <- seq(9, 40, length=70)
+  dev.predFlm <- cbind(1, T.pred, T.pred^2, T.pred^3, T.pred^4) %*% betaFlm
+  predFlm.df <- data.frame(T = T.pred, Dev = dev.predFlm)
+  predFlm.df <- predFlm.df %>% filter(Dev > 0)
+
+  lines(Dev/1000 ~ T, type = "l", data = predFlm.df, col = "green")
+
+   selmFt <- with(xxF, selm(Dev*1000 ~ I(T^-1) + T + I(T^2) + I(T^3), family = "ST"))
+  summary(selmFt, param.type="DP")
+  coefFt <- coef(selmFt, param.type="DP")
+  betaF <- coefFt[1:5]
+  T.pred <- seq(6, 40, length=70)
+  dev.predF <- cbind(1, T.pred^-1, T.pred, T.pred^2, T.pred^3) %*% betaF
+  predF.df <- data.frame(T = T.pred, Dev = dev.predF)
+  predF.df <- predF.df %>% filter(Dev > 0)
+  
+  plot(Dev/1000 ~ T, type = "l", data = predF.df)
+
+  lmFt <- with(xxF, lm(Dev*1000 ~  I(T^-1) + T + I(T^2) + I(T^3) + I(T^4)))
+  lmcoefFt <- coef(lmFt)
+  betaFlm <- lmcoefFt
+  T.pred <- seq(9, 40, length=70)
+  dev.predFlm <- cbind(1, T.pred^-1, T.pred, T.pred^2, T.pred^3, T.pred^4) %*% betaFlm
+  predFlm.df <- data.frame(T = T.pred, Dev = dev.predFlm)
+  predFlm.df <- predFlm.df %>% filter(Dev > 0)
+
+  lines(Dev/1000 ~ T, type = "l", data = predFlm.df, col = "green")
+ 
+
+
+
+
+  
+  ## Using mean with weights
+  xxFsum <- xxF %>%
+    select(T, Dev)%>%
+      group_by(T) %>%
+        summarise_each(funs(mean), Dev) 
+
+  xxFsum <- xxF %>%
+      group_by(factor(TempRecord)) %>%
+        summarise_each(funs(mean, length), Dev)
+  names(xxFsum) <- c("T", "Dev", "Weight")
+  xxFsum <- xxFsum %>%
+    mutate(T = fact2num(T))
+
+  selmFS <- with(xxFsum, selm(Dev ~ T, family = "SN", x = TRUE, y = TRUE))#, weight = Weight))
+  selmFSnoxy <- with(xxFsum, selm(Dev ~ T, family = "SN"))#, weight = Weight))
+
+ 
+  summary(selmFtS, param.type="DP")
+  
+
+  
+
+  
   rate.nlsM <-
     nlxb(Dev ~ exp(tau * (T - Tmin)) + lam -
          exp(rho*Tmax - (Tmax - T)/del), data = xxM, ## trace = TRUE, 
