@@ -1,0 +1,149 @@
+xxF11
+
+Sample size: 60
+
+Estimates and std.errors for the 'direct parameters' (location, scale, slant) :
+	estimate 	s.e.
+location 	0.0120 	0.001
+scale 	0.0009 	0.001
+slant 	-3.3327 	11.814
+
+Estimates and std.errors for the 'centred parameters'
+(mu=mean value, sigma=std.dev., gamma1=skewness):
+	estimate 	s.e.
+mu 	0.0112 	0.001
+sigma 	0.0006 	0.000
+gamma1 	-0.7141 	1.508
+                
+*************************************************
+xxF14
+
+Sample size: 43
+
+Estimates and std.errors for the 'direct parameters' (location, scale, slant) :
+	estimate 	s.e.
+location 	0.0214 	0.000
+scale 	0.0015 	0.001
+slant 	-29.7904 	222.055
+
+Estimates and std.errors for the 'centred parameters'
+(mu=mean value, sigma=std.dev., gamma1=skewness):
+	estimate 	s.e.
+mu 	0.0202 	0.001
+sigma 	0.0009 	0.001
+gamma1 	-0.9907 	0.068
+
+**********************************************
+
+xxF18
+
+Sample size: 17
+
+Estimates and std.errors for the 'direct parameters' (location, scale, slant) :
+	estimate 	s.e.
+location 	0.0320 	0.002
+scale 	0.0014 	0.002
+slant 	-2.3498 	8.790
+
+Estimates and std.errors for the 'centred parameters'
+(mu=mean value, sigma=std.dev., gamma1=skewness):
+	estimate 	s.e.
+mu 	0.0310 	0.001
+sigma 	0.0009 	0.001
+gamma1 	-0.5426 	2.026 
+
+************************************************************
+
+xxF21
+
+Sample size: 23
+
+Estimates and std.errors for the 'direct parameters' (location, scale, slant) :
+	estimate 	s.e.
+location 	0.0405 	0.003
+scale 	0.0024 	0.003
+slant 	-2.4143 	8.957
+
+Estimates and std.errors for the 'centred parameters'
+(mu=mean value, sigma=std.dev., gamma1=skewness):
+	estimate 	s.e.
+mu 	0.0388 	0.002
+sigma 	0.0016 	0.001
+gamma1 	-0.5572 	1.989 
+
+***************************************************************
+
+xxF22
+
+Sample size: 26
+
+Estimates and std.errors for the 'direct parameters' (location, scale, slant) :
+	estimate 	s.e.
+location 	0.0441 	0.005
+scale 	0.0024 	0.004
+slant 	-1.3934 	7.395
+
+Estimates and std.errors for the 'centred parameters'
+(mu=mean value, sigma=std.dev., gamma1=skewness):
+	estimate 	s.e.
+mu 	0.0426 	0.002
+sigma 	0.0018 	0.001
+gamma1 	-0.2648 	2.472
+
+*******************************************************
+
+xxF24
+ 
+Sample size: 22
+
+Estimates and std.errors for the 'direct parameters' (location, scale, slant) :
+	estimate 	s.e.
+location 	0.0484 	0.006
+scale 	0.0037 	0.005
+slant 	-1.8532 	7.745
+
+Estimates and std.errors for the 'centred parameters'
+(mu=mean value, sigma=std.dev., gamma1=skewness):
+	estimate 	s.e.
+mu 	0.0458 	0.003
+sigma 	0.0026 	0.002
+gamma1 	-0.4117 	2.296 
+
+************************************
+
+xxF27
+
+Sample size: 20
+
+Estimates and std.errors for the 'direct parameters' (location, scale, slant) :
+	estimate 	s.e.
+location 	0.0427 	137515.551
+scale 	0.0044 	1.093
+slant 	-0.0000 	38745320.695
+
+Estimates and std.errors for the 'centred parameters'
+(mu=mean value, sigma=std.dev., gamma1=skewness):
+	estimate 	s.e.
+mu 	0.0427 	0.004
+sigma 	0.0044 	0.003
+gamma1 	-0.0000 	2.449
+
+**************************************************************
+
+xxF30
+
+Estimates and std.errors for the 'direct parameters' (location, scale, slant) :
+	estimate 	s.e.
+location 	0.0364 	68400.466
+scale 	0.0030 	0.638
+slant 	-0.0000 	28615315.757
+
+Estimates and std.errors for the 'centred parameters'
+(mu=mean value, sigma=std.dev., gamma1=skewness):
+	estimate 	s.e.
+mu 	0.0364 	0.003
+sigma 	0.0030 	0.002
+gamma1 	-0.0000 	2.449 
+
+
+***************************************************

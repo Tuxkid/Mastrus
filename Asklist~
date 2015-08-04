@@ -1,0 +1,36 @@
+Getting predictions for skewed t-distribution
+
+
+I have a small dataframe xxF, a summary of which looks like this:
+
+> summary(xxF)
+       T              Dev          
+ Min.   :10.44   Min.   :0.008929  
+ 1st Qu.:10.44   1st Qu.:0.012048  
+ Median :18.61   Median :0.031250  
+ Mean   :17.87   Mean   :0.028286  
+ 3rd Qu.:22.24   3rd Qu.:0.041667  
+ Max.   :30.37   Max.   :0.050000  
+
+
+I managed to make a non-linear fit after a lot of fiddling with
+initial values but it looks overly complicated and biologically
+unconvincing in part.  The general form of a skewed t-distribution
+looks more appropriate so I tried selm from the SN package thus:
+
+
+>  selmFt <- with(xxF, selm(Dev ~ T, family = "ST", method="MPLE"))
+>  coef(selmFt, param.type="DP")
+(Intercept.DP)              T          omega          alpha             nu 
+  -0.015895099    0.002689226    0.002306132   -5.660870446    1.473210455 
+
+I wish to get predictions for values of T between 10 and 32 but I can't
+figure out how to use those coefficients.
+
+With an linear model or glm, even without a prediction method, it's
+fairly simple to get predictions from a range of values of the
+independent variable/s.  For a skewed-t it's evidently less
+straightforward.  Does it have to be done using CP type parameters?
+
+
+Ideas gratefully accepted

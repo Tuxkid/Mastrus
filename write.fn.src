@@ -1,0 +1,6 @@
+write.function(FlongHost)
+write.function(FlongNohost)
+write.function(HostNohost)
+write.function(maleLong)
+write.function(offspringNo)
+write.function(plot.offspring)

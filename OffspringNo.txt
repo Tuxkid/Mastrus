@@ -1,0 +1,1375 @@
+Diet	Virgin	Development	Sex	Size
+Water only	Virgin	22.00	Male	1.25
+Water only	Virgin	22.00	Male	1.40
+Water only	Virgin	22.00	Male	1.30
+Water only	Virgin	23.00	Male	1.30
+Water only	Virgin	24.00	Male	1.45
+Water only	Virgin	24.00	Male	1.30
+Water only	Virgin	24.00	Male	1.45
+Water only	Virgin	24.00	Male	1.25
+Water only	Virgin	24.00	Male	1.50
+Water only	Virgin	23.00	Male	1.30
+Water only	Virgin	25.00	Male	1.40
+Water only	Virgin	27.00	Male	1.50
+Water only	Virgin	25.00	Male	1.30
+Water only	Virgin	25.00	Male	1.35
+Undiluted honey and water	Virgin	25.00	Male	1.50
+Undiluted honey and water	Virgin	26.00	Male	1.45
+Undiluted honey and water	Virgin	26.00	Male	1.50
+Undiluted honey and water	Virgin	27.00	Male	1.60
+Undiluted honey and water	Virgin	27.00	Male	1.50
+Undiluted honey and water	Virgin	30.00	Male	1.50
+Undiluted honey and water	Virgin	24.00	Male	1.40
+Undiluted honey and water	Virgin	25.00	Male	1.60
+Undiluted honey and water	Virgin	25.00	Male	1.50
+Undiluted honey and water	Virgin	25.00	Male	1.55
+Undiluted honey and water	Virgin	27.00	Male	1.40
+Undiluted honey and water	Virgin	27.00	Male	1.35
+Undiluted honey and water	Virgin	27.00	Male	1.40
+Undiluted honey and water	Virgin	27.00	Male	1.45
+Undiluted honey and water	Virgin	28.00	Male	1.40
+Undiluted honey and water	Virgin	24.00	Male	1.55
+Undiluted honey and water	Virgin	26.00	Male	1.50
+Undiluted honey and water	Virgin	26.00	Male	1.50
+Undiluted honey and water	Virgin	26.00	Male	1.50
+Undiluted honey and water	Virgin	26.00	Male	1.40
+Undiluted honey and water	Virgin	26.00	Male	1.50
+Undiluted honey and water	Virgin	26.00	Male	1.40
+Undiluted honey and water	Virgin	26.00	Male	1.40
+Undiluted honey and water	Virgin	27.00	Male	1.50
+Undiluted honey and water	Virgin	28.00	Male	1.50
+Undiluted honey and water	Virgin	24.00	Male	1.50
+Undiluted honey and water	Virgin	24.00	Male	1.45
+Undiluted honey and water	Virgin	25.00	Male	1.50
+Undiluted honey and water	Virgin	25.00	Male	1.40
+Undiluted honey and water	Virgin	23.00	Male	1.40
+Undiluted honey and water	Virgin	23.00	Male	1.40
+Undiluted honey and water	Virgin	23.00	Male	1.25
+Undiluted honey and water	Virgin	24.00	Male	1.10
+Undiluted honey and water	Virgin	24.00	Male	1.35
+Undiluted honey and water	Virgin	24.00	Male	1.20
+Undiluted honey and water	Virgin	26.00	Male	1.65
+Undiluted honey and water	Virgin	26.00	Male	1.50
+Undiluted honey and water	Virgin	26.00	Male	1.50
+Undiluted honey and water	Virgin	27.00	Male	1.50
+Undiluted honey and water	Virgin	26.00	Male	1.20
+Undiluted honey and water	Virgin	24.00	Male	1.25
+Undiluted honey and water	Virgin	24.00	Male	1.10
+Undiluted honey and water	Virgin	24.00	Male	1.30
+Undiluted honey and water	Virgin	24.00	Male	1.10
+Undiluted honey and water	Virgin	24.00	Male	1.25
+Undiluted honey and water	Virgin	25.00	Male	1.20
+Undiluted honey and water	Virgin	26.00	Male	1.10
+Undiluted honey and water	Virgin	25.00	Male	1.35
+Undiluted honey and water	Virgin	25.00	Male	1.45
+Undiluted honey and water	Virgin	26.00	Male	1.25
+Undiluted honey and water	Virgin	26.00	Male	1.40
+Undiluted honey and water	Virgin	27.00	Male	1.50
+Undiluted honey and water	Virgin	29.00	Male	1.25
+Undiluted honey and water	Virgin	26.00	Male	1.25
+Undiluted honey and water	Virgin	27.00	Male	1.50
+Undiluted honey and water	Virgin	27.00	Male	1.30
+Undiluted honey and water	Virgin	27.00	Male	1.15
+Undiluted honey and water	Virgin	29.00	Male	1.35
+Undiluted honey and water	Virgin	26.00	Male	1.40
+Undiluted honey and water	Virgin	27.00	Male	1.55
+Undiluted honey and water	Virgin	27.00	Male	1.10
+Undiluted honey and water	Virgin	27.00	Male	1.40
+Undiluted honey and water	Virgin	28.00	Male	1.40
+Undiluted honey and water	Virgin	24.00	Male	1.00
+Undiluted honey and water	Virgin	24.00	Male	1.20
+Undiluted honey and water	Virgin	24.00	Male	1.15
+Undiluted honey and water	Virgin	24.00	Male	1.05
+Undiluted honey and water	Virgin	24.00	Male	1.25
+Undiluted honey and water	Virgin	24.00	Male	1.30
+Undiluted honey and water	Virgin	24.00	Male	1.10
+Undiluted honey and water	Virgin	24.00	Male	1.00
+Undiluted honey and water	Virgin	24.00	Male	1.10
+Undiluted honey and water	Virgin	24.00	Male	1.25
+Undiluted honey and water	Virgin	24.00	Male	1.25
+Undiluted honey and water	Virgin	25.00	Male	1.40
+Undiluted honey and water	Virgin	25.00	Male	1.25
+Undiluted honey and water	Virgin	26.00	Male	1.15
+Undiluted honey and water	Virgin	31.00	Male	1.30
+Undiluted honey and water	Virgin	31.00	Male	1.45
+Undiluted honey and water	Virgin	31.00	Male	1.50
+Undiluted honey and water	Virgin	31.00	Male	1.25
+Undiluted honey and water	Virgin	31.00	Male	1.30
+Undiluted honey and water	Virgin	28.00	Male	1.20
+Undiluted honey and water	Virgin	29.00	Male	1.05
+Undiluted honey and water	Virgin	24.00	Male	1.20
+Undiluted honey and water	Virgin	24.00	Male	1.25
+Undiluted honey and water	Virgin	24.00	Male	1.35
+Undiluted honey and water	Virgin	24.00	Male	1.20
+Undiluted honey and water	Virgin	24.00	Male	1.25
+Undiluted honey and water	Virgin	24.00	Male	1.25
+Undiluted honey and water	Virgin	24.00	Male	1.30
+Undiluted honey and water	Virgin	25.00	Male	1.25
+Undiluted honey and water	Virgin	25.00	Male	1.20
+Undiluted honey and water	Virgin	30.00	Male	1.35
+Undiluted honey and water	Virgin	30.00	Male	1.30
+Undiluted honey and water	Virgin	30.00	Male	1.25
+Undiluted honey and water	Virgin	30.00	Male	1.30
+Undiluted honey and water	Virgin	30.00	Male	1.25
+Undiluted honey and water	Virgin	30.00	Male	1.30
+Undiluted honey and water	Virgin	23.00	Male	1.20
+Undiluted honey and water	Virgin	24.00	Male	1.25
+Undiluted honey and water	Virgin	24.00	Male	1.50
+Undiluted honey and water	Virgin	24.00	Male	1.40
+Undiluted honey and water	Virgin	24.00	Male	1.35
+Undiluted honey and water	Virgin	26.00	Male	1.30
+Undiluted honey and water	Virgin	26.00	Male	1.25
+Undiluted honey and water	Virgin	26.00	Male	1.05
+Undiluted honey and water	Virgin	26.00	Male	1.25
+Undiluted honey and water	Virgin	26.00	Male	1.10
+Undiluted honey and water	Virgin	27.00	Male	1.30
+Undiluted honey and water	Virgin	27.00	Male	1.25
+Undiluted honey and water	Virgin	26.00	Male	1.15
+Undiluted honey and water	Virgin	27.00	Male	1.50
+Undiluted honey and water	Virgin	27.00	Male	1.40
+Undiluted honey and water	Virgin	27.00	Male	1.20
+Undiluted honey and water	Virgin	27.00	Male	1.50
+Undiluted honey and water	Virgin	26.00	Male	1.45
+Undiluted honey and water	Virgin	26.00	Male	1.40
+Undiluted honey and water	Virgin	28.00	Male	1.45
+Undiluted honey and water	Virgin	28.00	Male	1.25
+Undiluted honey and water	Virgin	25.00	Male	1.40
+Undiluted honey and water	Virgin	26.00	Male	1.25
+Undiluted honey and water	Virgin	27.00	Male	1.50
+Undiluted honey and water	Virgin	23.00	Male	1.25
+Undiluted honey and water	Virgin	23.00	Male	1.25
+Undiluted honey and water	Virgin	23.00	Male	1.30
+Undiluted honey and water	Virgin	24.00	Male	1.35
+Undiluted honey and water	Virgin	24.00	Male	1.20
+Undiluted honey and water	Virgin	27.00	Male	1.15
+Undiluted honey and water	Virgin	27.00	Male	1.25
+Undiluted honey and water	Virgin	27.00	Male	1.20
+Undiluted honey and water	Virgin	27.00	Male	1.30
+Undiluted honey and water	Virgin	27.00	Male	1.25
+Undiluted honey and water	Virgin	27.00	Male	1.20
+Undiluted honey and water	Virgin	27.00	Male	1.20
+Undiluted honey and water	Virgin	27.00	Male	1.35
+Undiluted honey and water	Virgin	27.00	Male	1.30
+Undiluted honey and water	Virgin	27.00	Male	1.25
+Undiluted honey and water	Virgin	28.00	Male	1.25
+Undiluted honey and water	Virgin	26.00	Male	1.25
+Undiluted honey and water	Virgin	26.00	Male	1.00
+Undiluted honey and water	Virgin	26.00	Male	1.25
+Undiluted honey and water	Virgin	26.00	Male	1.50
+Undiluted honey and water	Virgin	28.00	Male	1.40
+Undiluted honey and water	Virgin	28.00	Male	1.30
+Undiluted honey and water	Virgin	28.00	Male	1.25
+Undiluted honey and water	Virgin	28.00	Male	1.25
+Undiluted honey and water	Virgin	26.00	Male	1.25
+Undiluted honey and water	Virgin	26.00	Male	1.35
+Undiluted honey and water	Virgin	26.00	Male	1.35
+Undiluted honey and water	Virgin	26.00	Male	1.45
+Undiluted honey and water	Virgin	26.00	Male	1.50
+Undiluted honey and water	Virgin	27.00	Male	1.25
+Undiluted honey and water	Virgin	26.00	Male	1.50
+Undiluted honey and water	Virgin	26.00	Male	1.40
+Undiluted honey and water	Virgin	26.00	Male	1.25
+Undiluted honey and water	Virgin	26.00	Male	1.30
+Undiluted honey and water	Virgin	27.00	Male	1.40
+Undiluted honey and water	Virgin	26.00	Male	1.30
+Undiluted honey and water	Virgin	26.00	Male	1.40
+Undiluted honey and water	Virgin	26.00	Male	1.35
+Undiluted honey and water	Virgin	26.00	Male	1.35
+Undiluted honey and water	Virgin	26.00	Male	1.40
+Undiluted honey and water	Virgin	26.00	Male	1.25
+Undiluted honey and water	Virgin	26.00	Male	1.40
+Undiluted honey and water	Virgin	26.00	Male	1.50
+Undiluted honey and water	Virgin	26.00	Male	1.35
+Undiluted honey and water	Virgin	26.00	Male	1.35
+Undiluted honey and water	Virgin	26.00	Male	1.30
+Undiluted honey and water	Virgin	26.00	Male	1.50
+Undiluted honey and water	Virgin	27.00	Male	1.45
+Undiluted honey and water	Virgin	28.00	Male	1.35
+Undiluted honey and water	Virgin	28.00	Male	1.35
+Undiluted honey and water	Virgin	29.00	Male	1.40
+Undiluted honey and water	Virgin	29.00	Male	1.45
+Undiluted honey and water	Virgin	29.00	Male	1.30
+Undiluted honey and water	Virgin	25.00	Male	1.50
+Undiluted honey and water	Virgin	27.00	Male	1.50
+Undiluted honey and water	Virgin	28.00	Male	1.30
+Undiluted honey and water	Virgin	29.00	Male	1.45
+Undiluted honey and water	Virgin	23.00	Male	1.45
+Undiluted honey and water	Virgin	23.00	Male	1.55
+Undiluted honey and water	Virgin	24.00	Male	1.55
+Undiluted honey and water	Virgin	24.00	Male	1.55
+Undiluted honey and water	Virgin	24.00	Male	1.60
+Undiluted honey and water	Virgin	24.00	Male	1.00
+Undiluted honey and water	Virgin	24.00	Male	1.10
+Undiluted honey and water	Virgin	24.00	Male	1.30
+Undiluted honey and water	Virgin	24.00	Male	1.25
+Undiluted honey and water	Virgin	25.00	Male	1.20
+Undiluted honey and water	Virgin	25.00	Male	1.50
+Undiluted honey and water	Virgin	25.00	Male	1.50
+Undiluted honey and water	Virgin	27.00	Male	1.20
+Undiluted honey and water	Virgin	27.00	Male	1.15
+Undiluted honey and water	Virgin	27.00	Male	1.20
+Undiluted honey and water	Virgin	27.00	Male	1.10
+Undiluted honey and water	Virgin	28.00	Male	1.30
+Undiluted honey and water	Virgin	28.00	Male	1.30
+Undiluted honey and water	Virgin	28.00	Male	1.40
+Undiluted honey and water	Virgin	28.00	Male	1.25
+Undiluted honey and water	Virgin	27.00	Male	1.25
+Undiluted honey and water	Virgin	27.00	Male	1.35
+Undiluted honey and water	Virgin	27.00	Male	1.50
+Undiluted honey and water	Virgin	27.00	Male	1.25
+Undiluted honey and water	Virgin	25.00	Male	1.25
+Undiluted honey and water	Virgin	25.00	Male	1.25
+Undiluted honey and water	Virgin	25.00	Male	1.30
+Undiluted honey and water	Virgin	25.00	Male	1.15
+Undiluted honey and water	Virgin	25.00	Male	1.00
+Undiluted honey and water	Virgin	25.00	Male	1.20
+Undiluted honey and water	Virgin	26.00	Male	1.25
+Undiluted honey and water	Virgin	24.00	Male	1.50
+Undiluted honey and water	Virgin	24.00	Male	1.50
+Undiluted honey and water	Virgin	24.00	Male	1.40
+Undiluted honey and water	Virgin	25.00	Male	1.40
+Undiluted honey and water	Virgin	25.00	Male	1.30
+Undiluted honey and water	Virgin	25.00	Male	1.30
+Undiluted honey and water	Virgin	25.00	Male	1.00
+Undiluted honey and water	Virgin	26.00	Male	1.40
+Undiluted honey and water	Virgin	27.00	Male	1.40
+Undiluted honey and water	Virgin	27.00	Male	1.35
+Undiluted honey and water	Virgin	28.00	Male	1.35
+Undiluted honey and water	Virgin	27.00	Male	1.35
+Undiluted honey and water	Virgin	27.00	Male	1.20
+Undiluted honey and water	Virgin	29.00	Male	1.45
+Undiluted honey and water	Virgin	29.00	Male	1.35
+Undiluted honey and water	Virgin	28.00	Male	1.35
+Undiluted honey and water	Virgin	28.00	Male	1.20
+Undiluted honey and water	Virgin	28.00	Male	1.20
+Undiluted honey and water	Virgin	29.00	Male	1.40
+Undiluted honey and water	Virgin	29.00	Male	1.15
+Undiluted honey and water	Virgin	29.00	Male	1.30
+Undiluted honey and water	Virgin	26.00	Male	1.30
+Undiluted honey and water	Virgin	26.00	Male	1.40
+Undiluted honey and water	Virgin	26.00	Male	1.25
+Undiluted honey and water	Virgin	26.00	Male	1.30
+Undiluted honey and water	Virgin	26.00	Male	1.25
+Undiluted honey and water	Virgin	26.00	Male	1.30
+Undiluted honey and water	Virgin	23.00	Male	1.10
+Undiluted honey and water	Virgin	23.00	Male	1.10
+Undiluted honey and water	Virgin	23.00	Male	1.25
+Undiluted honey and water	Virgin	24.00	Male	1.25
+Undiluted honey and water	Virgin	24.00	Male	1.20
+Undiluted honey and water	Virgin	25.00	Male	1.15
+Undiluted honey and water	Virgin	25.00	Male	1.30
+Undiluted honey and water	Virgin	25.00	Male	1.20
+Undiluted honey and water	Virgin	25.00	Male	1.15
+Undiluted honey and water	Virgin	24.00	Male	1.30
+Undiluted honey and water	Virgin	24.00	Male	1.35
+Undiluted honey and water	Virgin	24.00	Male	1.30
+Undiluted honey and water	Virgin	24.00	Male	1.45
+Undiluted honey and water	Virgin	24.00	Male	1.25
+Undiluted honey and water	Virgin	24.00	Male	1.35
+Undiluted honey and water	Virgin	24.00	Male	1.45
+Undiluted honey and water	Virgin	24.00	Male	1.50
+Undiluted honey and water	Virgin	24.00	Male	1.25
+Undiluted honey and water	Virgin	24.00	Male	1.35
+Undiluted honey and water	Virgin	24.00	Male	1.25
+Undiluted honey and water	Virgin	24.00	Male	1.55
+Undiluted honey and water	Virgin	25.00	Male	1.50
+Undiluted honey and water	Virgin	26.00	Male	1.40
+Undiluted honey and water	Virgin	26.00	Male	1.50
+Undiluted honey and water	Virgin	28.00	Male	1.55
+Undiluted honey and water	Virgin	28.00	Male	1.50
+Undiluted honey and water	Virgin	28.00	Male	1.50
+Undiluted honey and water	Virgin	26.00	Male	1.40
+Undiluted honey and water	Virgin	27.00	Male	1.50
+Undiluted honey and water	Virgin	27.00	Male	1.25
+Undiluted honey and water	Virgin	28.00	Male	1.35
+Undiluted honey and water	Virgin	28.00	Male	1.45
+Undiluted honey and water	Virgin	26.00	Male	1.50
+Undiluted honey and water	Virgin	26.00	Male	1.50
+Undiluted honey and water	Virgin	28.00	Male	1.40
+Undiluted honey and water	Virgin	28.00	Male	1.35
+Undiluted honey and water	Virgin	28.00	Male	1.50
+Undiluted honey and water	Virgin	28.00	Male	1.50
+Undiluted honey and water	Virgin	28.00	Male	1.45
+Undiluted honey and water	Virgin	28.00	Male	1.50
+Undiluted honey and water	Virgin	28.00	Male	1.50
+Undiluted honey and water	Virgin	30.00	Male	1.50
+Undiluted honey and water	Virgin	28.00	Male	1.20
+Undiluted honey and water	Virgin	28.00	Male	1.25
+Undiluted honey and water	Virgin	28.00	Male	0.90
+Undiluted honey and water	Virgin	28.00	Male	1.40
+Undiluted honey and water	Virgin	26.00	Male	1.40
+Undiluted honey and water	Virgin	26.00	Male	1.30
+Undiluted honey and water	Virgin	26.00	Male	1.35
+Undiluted honey and water	Virgin	24.00	Male	1.40
+Undiluted honey and water	Virgin	24.00	Male	1.30
+Undiluted honey and water	Virgin	24.00	Male	1.35
+Undiluted honey and water	Virgin	25.00	Male	1.40
+Honey agar diet and water	Virgin	26.00	Male	1.50
+Honey agar diet and water	Virgin	24.00	Male	1.50
+Honey agar diet and water	Virgin	24.00	Male	1.50
+Honey agar diet and water	Virgin	32.00	Male	1.40
+Honey agar diet and water	Virgin	30.00	Male	1.40
+Honey agar diet and water	Virgin	30.00	Male	1.40
+Honey agar diet and water	Virgin	30.00	Male	1.35
+Honey agar diet and water	Virgin	31.00	Male	1.40
+Honey agar diet and water	Virgin	34.00	Male	1.40
+Honey agar diet and water	Virgin	24.00	Male	1.45
+Honey agar diet and water	Virgin	25.00	Male	1.40
+Honey agar diet and water	Virgin	25.00	Male	1.40
+Honey agar diet and water	Virgin	25.00	Male	1.40
+Honey agar diet and water	Virgin	26.00	Male	1.40
+Honey agar diet and water	Virgin	27.00	Male	1.50
+Honey agar diet and water	Virgin	27.00	Male	1.50
+Honey agar diet and water	Virgin	28.00	Male	1.50
+Honey agar diet and water	Virgin	28.00	Male	1.50
+Honey agar diet and water	Virgin	28.00	Male	1.55
+Honey agar diet and water	Virgin	28.00	Male	1.50
+Honey agar diet and water	Virgin	25.00	Male	1.60
+Honey agar diet and water	Virgin	26.00	Male	1.50
+Honey agar diet and water	Virgin	28.00	Male	1.50
+Honey agar diet and water	Virgin	29.00	Male	1.50
+Honey agar diet and water	Virgin	27.00	Male	1.45
+Honey agar diet and water	Virgin	30.00	Male	1.55
+Honey agar diet and water	Virgin	30.00	Male	1.45
+Honey agar diet and water	Virgin	28.00	Male	1.10
+Honey agar diet and water	Virgin	29.00	Male	1.00
+Honey agar diet and water	Virgin	29.00	Male	1.10
+Honey agar diet and water	Virgin	24.00	Male	1.00
+Honey agar diet and water	Virgin	27.00	Male	1.35
+Honey agar diet and water	Virgin	27.00	Male	1.50
+Honey agar diet and water	Virgin	27.00	Male	1.50
+Honey agar diet and water	Virgin	23.00	Male	1.50
+Honey agar diet and water	Virgin	23.00	Male	1.40
+Honey agar diet and water	Virgin	23.00	Male	1.40
+Honey agar diet and water	Virgin	23.00	Male	1.40
+Honey agar diet and water	Virgin	23.00	Male	1.45
+Honey agar diet and water	Virgin	24.00	Male	1.35
+Honey agar diet and water	Virgin	25.00	Male	1.60
+Honey agar diet and water	Virgin	25.00	Male	1.50
+Honey agar diet and water	Virgin	25.00	Male	1.50
+Honey agar diet and water	Virgin	25.00	Male	1.45
+Honey agar diet and water	Virgin	25.00	Male	1.50
+Honey agar diet and water	Virgin	26.00	Male	1.45
+Honey agar diet and water	Virgin	26.00	Male	1.50
+Honey agar diet and water	Virgin	26.00	Male	1.50
+Honey agar diet and water	Virgin	25.00	Male	1.40
+Honey agar diet and water	Virgin	25.00	Male	1.30
+Honey agar diet and water	Virgin	25.00	Male	1.40
+Honey agar diet and water	Virgin	26.00	Male	1.50
+Honey agar diet and water	Virgin	30.00	Male	1.30
+Honey agar diet and water	Virgin	31.00	Male	1.45
+Honey agar diet and water	Virgin	34.00	Male	1.50
+Honey agar diet and water	Virgin	29.00	Male	1.40
+Honey agar diet and water	Virgin	29.00	Male	1.40
+Honey agar diet and water	Virgin	30.00	Male	1.45
+Honey agar diet and water	Virgin	27.00	Male	1.55
+Honey agar diet and water	Virgin	28.00	Male	1.55
+Honey agar diet and water	Virgin	24.00	Male	1.35
+Honey agar diet and water	Virgin	24.00	Male	1.35
+Honey agar diet and water	Virgin	34.00	Male	1.40
+Honey agar diet and water	Virgin	24.00	Male	1.40
+Honey agar diet and water	Virgin	24.00	Male	1.50
+Honey agar diet and water	Virgin	24.00	Male	1.25
+Honey agar diet and water	Virgin	26.00	Male	1.60
+Honey agar diet and water	Virgin	31.00	Male	1.60
+Honey agar diet and water	Virgin	31.00	Male	1.50
+Honey agar diet and water	Virgin	27.00	Male	1.50
+Honey agar diet and water	Virgin	27.00	Male	1.55
+Honey agar diet and water	Virgin	27.00	Male	1.50
+Honey agar diet and water	Virgin	27.00	Male	1.50
+Honey agar diet and water	Virgin	27.00	Male	1.25
+Honey agar diet and water	Virgin	29.00	Male	1.10
+Honey agar diet and water	Virgin	29.00	Male	1.00
+Honey agar diet and water	Virgin	24.00	Male	1.25
+Honey agar diet and water	Virgin	25.00	Male	1.40
+Honey agar diet and water	Virgin	25.00	Male	1.10
+Honey agar diet and water	Virgin	25.00	Male	1.50
+Honey agar diet and water	Virgin	26.00	Male	1.40
+Honey agar diet and water	Virgin	27.00	Male	1.25
+Honey agar diet and water	Virgin	27.00	Male	1.50
+Honey agar diet and water	Virgin	27.00	Male	1.50
+Honey agar diet and water	Virgin	26.00	Male	1.50
+Honey agar diet and water	Virgin	26.00	Male	1.40
+Honey agar diet and water	Virgin	24.00	Male	1.25
+Honey agar diet and water	Virgin	24.00	Male	1.25
+Honey agar diet and water	Virgin	24.00	Male	1.50
+Honey agar diet and water	Virgin	26.00	Male	1.50
+Honey agar diet and water	Virgin	26.00	Male	1.45
+Honey agar diet and water	Virgin	27.00	Male	1.35
+Honey agar diet and water	Virgin	26.00	Male	1.40
+Honey agar diet and water	Virgin	26.00	Male	1.45
+Honey agar diet and water	Virgin	29.00	Male	1.30
+Honey agar diet and water	Virgin	29.00	Male	1.30
+Honey agar diet and water	Virgin	26.00	Male	1.45
+Honey agar diet and water	Virgin	25.00	Male	1.30
+Honey agar diet and water	Virgin	25.00	Male	1.45
+Honey agar diet and water	Virgin	25.00	Male	1.45
+Honey agar diet and water	Virgin	25.00	Male	1.30
+Honey agar diet and water	Virgin	28.00	Male	1.50
+Honey agar diet and water	Virgin	26.00	Male	1.50
+Honey agar diet and water	Virgin	26.00	Male	1.55
+Honey agar diet and water	Virgin	26.00	Male	1.25
+Honey agar diet and water	Virgin	28.00	Male	1.45
+Honey agar diet and water	Virgin	27.00	Male	1.40
+Honey agar diet and water	Virgin	23.00	Male	1.50
+Honey agar diet and water	Virgin	24.00	Male	1.55
+Honey agar diet and water	Virgin	24.00	Male	1.60
+Honey agar diet and water	Virgin	25.00	Male	1.50
+Honey agar diet and water	Virgin	30.00	Male	1.50
+Honey agar diet and water	Virgin	27.00	Male	1.55
+Honey agar diet and water	Virgin	27.00	Male	1.40
+Honey agar diet and water	Virgin	27.00	Male	1.50
+Honey agar diet and water	Virgin	25.00	Male	1.30
+Honey agar diet and water	Virgin	25.00	Male	1.45
+Honey agar diet and water	Virgin	27.00	Male	1.40
+Honey agar diet and water	Virgin	25.00	Male	1.25
+Honey agar diet and water	Virgin	27.00	Male	1.30
+Honey agar diet and water	Virgin	27.00	Male	1.30
+Honey agar diet and water	Virgin	27.00	Male	1.25
+Honey agar diet and water	Virgin	27.00	Male	1.30
+Honey agar diet and water	Virgin	26.00	Male	1.45
+Honey agar diet and water	Virgin	26.00	Male	1.35
+Honey agar diet and water	Virgin	26.00	Male	1.45
+Honey agar diet and water	Virgin	26.00	Male	1.40
+Honey agar diet and water	Virgin	25.00	Male	1.60
+Honey agar diet and water	Virgin	25.00	Male	1.55
+Honey agar diet and water	Virgin	24.00	Male	1.40
+Honey agar diet and water	Virgin	25.00	Male	1.40
+Honey agar diet and water	Virgin	25.00	Male	1.50
+Honey agar diet and water	Virgin	25.00	Male	1.40
+Honey agar diet and water	Virgin	27.00	Male	1.40
+Honey agar diet and water	Virgin	27.00	Male	1.50
+Honey agar diet and water	Virgin	27.00	Male	1.55
+Honey agar diet and water	Virgin	25.00	Male	1.25
+Honey agar diet and water	Virgin	25.00	Male	1.40
+Honey agar diet and water	Virgin	25.00	Male	1.00
+Honey agar diet and water	Virgin	25.00	Male	1.25
+Honey agar diet and water	Virgin	26.00	Male	1.30
+Honey agar diet and water	Virgin	24.00	Male	1.25
+Honey agar diet and water	Virgin	24.00	Male	1.15
+Honey agar diet and water	Virgin	25.00	Male	1.15
+Honey agar diet and water	Virgin	26.00	Male	1.10
+Honey agar diet and water	Virgin	25.00	Male	1.50
+Honey agar diet and water	Virgin	25.00	Male	1.50
+Honey agar diet and water	Virgin	26.00	Male	1.15
+Honey agar diet and water	Virgin	26.00	Male	1.50
+Honey agar diet and water	Virgin	26.00	Male	1.50
+Honey agar diet and water	Virgin	28.00	Male	1.55
+Honey agar diet and water	Virgin	24.00	Male	1.50
+Honey agar diet and water	Virgin	24.00	Male	1.50
+Honey agar diet and water	Virgin	25.00	Male	1.55
+Honey agar diet and water	Virgin	25.00	Male	1.60
+Honey agar diet and water	Virgin	25.00	Male	1.55
+Honey agar diet and water	Virgin	26.00	Male	1.50
+Honey agar diet and water	Virgin	26.00	Male	1.60
+Honey agar diet and water	Virgin	26.00	Male	1.60
+Honey agar diet and water	Virgin	24.00	Male	1.25
+Honey agar diet and water	Virgin	24.00	Male	1.35
+Honey agar diet and water	Virgin	24.00	Male	1.35
+Honey agar diet and water	Virgin	24.00	Male	1.40
+Honey agar diet and water	Virgin	24.00	Male	1.30
+Honey agar diet and water	Virgin	24.00	Male	1.40
+Honey agar diet and water	Virgin	24.00	Male	1.35
+Honey agar diet and water	Virgin	24.00	Male	1.10
+Honey agar diet and water	Virgin	24.00	Male	1.40
+Honey agar diet and water	Virgin	24.00	Male	1.15
+Honey agar diet and water	Virgin	24.00	Male	1.30
+Honey agar diet and water	Virgin	24.00	Male	1.30
+Honey agar diet and water	Virgin	24.00	Male	1.35
+Honey agar diet and water	Virgin	24.00	Male	1.00
+Honey agar diet and water	Virgin	24.00	Male	1.55
+Honey agar diet and water	Virgin	25.00	Male	1.50
+Honey agar diet and water	Virgin	26.00	Male	1.50
+Honey agar diet and water	Virgin	26.00	Male	1.45
+Honey agar diet and water	Virgin	27.00	Male	1.30
+Honey agar diet and water	Virgin	25.00	Male	1.65
+Honey agar diet and water	Virgin	26.00	Male	1.30
+Honey agar diet and water	Virgin	26.00	Male	1.10
+Honey agar diet and water	Virgin	26.00	Male	1.25
+Honey agar diet and water	Virgin	26.00	Male	1.35
+Honey agar diet and water	Virgin	27.00	Male	1.35
+Honey agar diet and water	Virgin	27.00	Male	1.30
+Honey agar diet and water	Virgin	25.00	Male	1.50
+Honey agar diet and water	Virgin	25.00	Male	1.50
+Honey agar diet and water	Virgin	25.00	Male	1.50
+Honey agar diet and water	Virgin	23.00	Male	1.30
+Honey agar diet and water	Virgin	23.00	Male	1.35
+Honey agar diet and water	Virgin	23.00	Male	1.35
+Honey agar diet and water	Virgin	24.00	Male	1.45
+Honey agar diet and water	Virgin	23.00	Male	1.25
+Honey agar diet and water	Virgin	23.00	Male	1.50
+Honey agar diet and water	Virgin	23.00	Male	1.45
+Honey agar diet and water	Virgin	23.00	Male	1.45
+Honey agar diet and water	Virgin	23.00	Male	1.35
+Honey agar diet and water	Virgin	24.00	Male	1.25
+Honey agar diet and water	Virgin	24.00	Male	1.50
+Honey agar diet and water	Virgin	24.00	Male	1.30
+Honey agar diet and water	Virgin	25.00	Male	1.65
+Honey agar diet and water	Virgin	24.00	Male	1.40
+Honey agar diet and water	Virgin	24.00	Male	1.30
+Honey agar diet and water	Virgin	24.00	Male	1.40
+Honey agar diet and water	Virgin	24.00	Male	1.35
+Honey agar diet and water	Virgin	24.00	Male	1.35
+Honey agar diet and water	Virgin	25.00	Male	0.90
+Honey agar diet and water	Virgin	24.00	Male	1.40
+Honey agar diet and water	Virgin	24.00	Male	1.30
+Honey agar diet and water	Virgin	24.00	Male	1.35
+Honey agar diet and water	Virgin	24.00	Male	1.35
+Honey agar diet and water	Virgin	24.00	Male	1.50
+Honey agar diet and water	Virgin	24.00	Male	1.50
+Honey agar diet and water	Virgin	24.00	Male	1.40
+Honey agar diet and water	Virgin	25.00	Male	1.25
+Honey agar diet and water	Virgin	25.00	Male	1.05
+Honey agar diet and water	Virgin	25.00	Male	1.35
+Honey agar diet and water	Virgin	26.00	Male	1.15
+Honey agar diet and water	Virgin	26.00	Male	1.25
+Honey agar diet and water	Virgin	26.00	Male	1.10
+Honey agar diet and water	Virgin	26.00	Male	1.35
+Honey agar diet and water	Virgin	26.00	Male	1.25
+Honey agar diet and water	Virgin	26.00	Male	1.25
+Honey agar diet and water	Virgin	24.00	Male	1.55
+Honey agar diet and water	Virgin	24.00	Male	1.50
+Honey agar diet and water	Virgin	24.00	Male	1.55
+Honey agar diet and water	Virgin	24.00	Male	1.55
+Honey agar diet and water	Virgin	26.00	Male	1.35
+Honey agar diet and water	Virgin	26.00	Male	1.40
+Honey agar diet and water	Virgin	26.00	Male	1.35
+Honey agar diet and water	Virgin	26.00	Male	1.50
+Honey agar diet and water	Virgin	22.00	Male	1.25
+Honey agar diet and water	Virgin	23.00	Male	1.20
+Honey agar diet and water	Virgin	30.00	Male	1.50
+Honey agar diet and water	Virgin	29.00	Male	1.45
+Honey agar diet and water	Virgin	29.00	Male	1.55
+Honey agar diet and water	Virgin	29.00	Male	1.50
+Honey agar diet and water	Virgin	27.00	Male	1.35
+Honey agar diet and water	Virgin	27.00	Male	1.40
+Honey agar diet and water	Virgin	28.00	Male	1.25
+Honey agar diet and water	Virgin	28.00	Male	1.25
+Honey agar diet and water	Virgin	29.00	Male	1.00
+Honey agar diet and water	Virgin	29.00	Male	1.40
+Honey agar diet and water	Virgin	30.00	Male	1.30
+Honey agar diet and water	Virgin	30.00	Male	1.40
+Honey agar diet and water	Virgin	31.00	Male	1.10
+Honey agar diet and water	Virgin	27.00	Male	1.45
+Honey agar diet and water	Virgin	28.00	Male	1.30
+Honey agar diet and water	Virgin	28.00	Male	1.30
+Honey agar diet and water	Virgin	28.00	Male	1.30
+Honey agar diet and water	Virgin	28.00	Male	1.40
+Honey agar diet and water	Virgin	29.00	Male	1.30
+Honey agar diet and water	Virgin	29.00	Male	1.25
+Honey agar diet and water	Virgin	29.00	Male	1.25
+Honey agar diet and water	Virgin	29.00	Male	1.15
+Honey agar diet and water	Virgin	30.00	Male	1.00
+Honey agar diet and water	Virgin	30.00	Male	1.10
+Honey agar diet and water	Virgin	30.00	Male	1.15
+Honey agar diet and water	Virgin	30.00	Male	1.25
+Honey agar diet and water	Virgin	30.00	Male	1.20
+Honey agar diet and water	Virgin	30.00	Male	1.25
+Honey agar diet and water	Virgin	30.00	Male	1.25
+Honey agar diet and water	Virgin	25.00	Male	1.50
+Honey agar diet and water	Virgin	25.00	Male	1.50
+Honey agar diet and water	Virgin	25.00	Male	1.30
+Honey agar diet and water	Virgin	26.00	Male	1.25
+Honey agar diet and water	Virgin	24.00	Male	1.50
+Honey agar diet and water	Virgin	25.00	Male	1.50
+Honey agar diet and water	Virgin	25.00	Male	1.45
+Honey agar diet and water	Virgin	28.00	Male	1.60
+Honey agar diet and water	Virgin	28.00	Male	1.50
+Honey agar diet and water	Virgin	27.00	Male	1.35
+Honey agar diet and water	Virgin	28.00	Male	1.45
+Honey agar diet and water	Virgin	28.00	Male	1.35
+Honey agar diet and water	Virgin	28.00	Male	1.25
+Honey agar diet and water	Virgin	25.00	Male	1.45
+Honey agar diet and water	Virgin	25.00	Male	1.50
+Honey agar diet and water	Virgin	29.00	Male	1.40
+Honey agar diet and water	Virgin	29.00	Male	1.35
+Honey agar diet and water	Virgin	29.00	Male	1.05
+Honey agar diet and water	Virgin	29.00	Male	1.35
+Honey agar diet and water	Virgin	24.00	Male	1.50
+Honey agar diet and water	Virgin	24.00	Male	1.60
+Honey agar diet and water	Virgin	24.00	Male	1.55
+Honey agar diet and water	Virgin	25.00	Male	1.50
+Honey agar diet and water	Virgin	29.00	Male	1.25
+Honey agar diet and water	Virgin	29.00	Male	1.25
+Honey agar diet and water	Virgin	29.00	Male	1.25
+Honey agar diet and water	Virgin	30.00	Male	1.50
+Honey agar diet and water	Virgin	23.00	Male	1.45
+Honey agar diet and water	Virgin	24.00	Male	1.55
+Honey agar diet and water	Virgin	24.00	Male	1.50
+Honey agar diet and water	Virgin	24.00	Male	1.35
+Honey agar diet and water	Virgin	27.00	Male	1.50
+Honey agar diet and water	Virgin	25.00	Male	1.25
+Honey agar diet and water	Virgin	25.00	Male	1.45
+Honey agar diet and water	Virgin	25.00	Male	1.50
+Honey agar diet and water	Virgin	25.00	Male	1.35
+Honey agar diet and water	Virgin	25.00	Male	1.35
+Honey agar diet and water	Virgin	23.00	Male	1.25
+Honey agar diet and water	Virgin	25.00	Male	1.25
+Honey agar diet and water	Virgin	25.00	Male	1.40
+Honey agar diet and water	Virgin	25.00	Male	1.10
+Honey agar diet and water	Virgin	26.00	Male	1.35
+Honey agar diet and water	Virgin	27.00	Male	1.50
+Honey agar diet and water	Virgin	27.00	Male	1.35
+Honey agar diet and water	Virgin	26.00	Male	1.25
+Honey agar diet and water	Virgin	26.00	Male	1.20
+Honey agar diet and water	Virgin	26.00	Male	1.30
+Honey agar diet and water	Virgin	27.00	Male	1.30
+Honey agar diet and water	Virgin	27.00	Male	1.25
+Honey agar diet and water	Virgin	26.00	Male	1.30
+Honey agar diet and water	Virgin	27.00	Male	1.40
+Honey agar diet and water	Virgin	27.00	Male	1.50
+Honey agar diet and water	Virgin	27.00	Male	1.40
+Honey agar diet and water	Virgin	26.00	Male	1.25
+Honey agar diet and water	Virgin	26.00	Male	1.20
+Honey agar diet and water	Virgin	26.00	Male	1.30
+Honey agar diet and water	Virgin	26.00	Male	1.25
+Honey agar diet and water	Virgin	26.00	Male	1.40
+Honey agar diet and water	Virgin	26.00	Male	1.25
+Honey agar diet and water	Virgin	26.00	Male	1.25
+Honey agar diet and water	Virgin	27.00	Male	1.40
+Honey agar diet and water	Virgin	27.00	Male	1.45
+Honey agar diet and water	Virgin	27.00	Male	1.40
+Honey agar diet and water	Virgin	26.00	Male	1.40
+Honey agar diet and water	Virgin	26.00	Male	1.45
+Honey agar diet and water	Virgin	26.00	Male	1.40
+Honey agar diet and water	Virgin	26.00	Male	1.40
+Honey agar diet and water	Virgin	27.00	Male	1.35
+Honey agar diet and water	Virgin	27.00	Male	1.40
+Honey agar diet and water	Virgin	27.00	Male	1.50
+Water only	Mated	27.00	Male	1.30
+Water only	Mated	24.00	Male	1.30
+Water only	Mated	24.00	Male	1.40
+Water only	Mated	25.00	Male	1.40
+Water only	Mated	26.00	Female	1.30
+Water only	Mated	28.00	Female	1.30
+Water only	Mated	28.00	Female	1.45
+Water only	Mated	28.00	Female	1.40
+Water only	Mated	28.00	Male	1.55
+Water only	Mated	29.00	Female	1.75
+Water only	Mated	29.00	Female	1.50
+Water only	Mated	26.00	Male	1.55
+Water only	Mated	26.00	Male	1.55
+Water only	Mated	27.00	Female	1.55
+Water only	Mated	28.00	Female	1.60
+Water only	Mated	34.00	Female	1.25
+Water only	Mated	34.00	Female	1.25
+Water only	Mated	36.00	Female	1.15
+Water only	Mated	36.00	Female	1.30
+Water only	Mated	36.00	Female	1.25
+Water only	Mated	30.00	Female	1.60
+Undiluted honey and water	Mated	26.00	Female	1.05
+Undiluted honey and water	Mated	26.00	Female	1.10
+Undiluted honey and water	Mated	26.00	Female	1.35
+Undiluted honey and water	Mated	26.00	Female	1.25
+Undiluted honey and water	Mated	27.00	Female	1.25
+Undiluted honey and water	Mated	27.00	Female	1.25
+Undiluted honey and water	Mated	27.00	Female	1.20
+Undiluted honey and water	Mated	27.00	Female	1.10
+Undiluted honey and water	Mated	27.00	Female	1.20
+Undiluted honey and water	Mated	27.00	Female	1.30
+Undiluted honey and water	Mated	28.00	Female	1.25
+Undiluted honey and water	Mated	24.00	Male	1.35
+Undiluted honey and water	Mated	23.00	Male	1.40
+Undiluted honey and water	Mated	24.00	Male	1.40
+Undiluted honey and water	Mated	25.00	Male	1.30
+Undiluted honey and water	Mated	26.00	Female	1.40
+Undiluted honey and water	Mated	28.00	Male	1.55
+Undiluted honey and water	Mated	30.00	Male	1.30
+Undiluted honey and water	Mated	26.00	Male	1.40
+Undiluted honey and water	Mated	26.00	Male	1.45
+Undiluted honey and water	Mated	27.00	Male	1.40
+Undiluted honey and water	Mated	27.00	Male	1.50
+Undiluted honey and water	Mated	25.00	Male	1.25
+Undiluted honey and water	Mated	27.00	Male	1.50
+Undiluted honey and water	Mated	27.00	Male	1.50
+Undiluted honey and water	Mated	28.00	Male	1.40
+Undiluted honey and water	Mated	24.00	Male	1.25
+Undiluted honey and water	Mated	24.00	Male	1.45
+Undiluted honey and water	Mated	24.00	Male	1.40
+Undiluted honey and water	Mated	25.00	Male	1.25
+Undiluted honey and water	Mated	25.00	Male	1.25
+Undiluted honey and water	Mated	25.00	Male	1.45
+Undiluted honey and water	Mated	25.00	Male	1.25
+Undiluted honey and water	Mated	25.00	Male	1.40
+Undiluted honey and water	Mated	26.00	Male	1.35
+Undiluted honey and water	Mated	26.00	Male	1.35
+Undiluted honey and water	Mated	28.00	Male	1.25
+Undiluted honey and water	Mated	27.00	Male	1.30
+Undiluted honey and water	Mated	26.00	Male	1.45
+Undiluted honey and water	Mated	26.00	Male	1.50
+Undiluted honey and water	Mated	29.00	Male	1.45
+Undiluted honey and water	Mated	26.00	Male	1.55
+Undiluted honey and water	Mated	26.00	Male	1.55
+Undiluted honey and water	Mated	24.00	Male	1.25
+Undiluted honey and water	Mated	25.00	Male	1.25
+Undiluted honey and water	Mated	26.00	Male	1.20
+Undiluted honey and water	Mated	26.00	Male	1.20
+Undiluted honey and water	Mated	27.00	Male	1.30
+Undiluted honey and water	Mated	27.00	Male	1.40
+Undiluted honey and water	Mated	25.00	Male	1.05
+Undiluted honey and water	Mated	25.00	Male	1.10
+Undiluted honey and water	Mated	26.00	Male	1.10
+Undiluted honey and water	Mated	27.00	Male	1.20
+Undiluted honey and water	Mated	27.00	Male	1.40
+Undiluted honey and water	Mated	28.00	Male	1.50
+Undiluted honey and water	Mated	28.00	Male	1.40
+Undiluted honey and water	Mated	28.00	Male	1.50
+Undiluted honey and water	Mated	28.00	Male	1.50
+Undiluted honey and water	Mated	26.00	Male	1.25
+Undiluted honey and water	Mated	26.00	Male	1.30
+Undiluted honey and water	Mated	26.00	Male	1.45
+Undiluted honey and water	Mated	26.00	Male	1.30
+Undiluted honey and water	Mated	26.00	Male	1.40
+Undiluted honey and water	Mated	29.00	Female	1.50
+Undiluted honey and water	Mated	31.00	Female	1.55
+Undiluted honey and water	Mated	31.00	Female	1.65
+Undiluted honey and water	Mated	25.00	Male	1.35
+Undiluted honey and water	Mated	26.00	Male	1.40
+Undiluted honey and water	Mated	29.00	Female	1.40
+Undiluted honey and water	Mated	29.00	Female	1.45
+Undiluted honey and water	Mated	30.00	Female	1.50
+Undiluted honey and water	Mated	24.00	Male	1.30
+Undiluted honey and water	Mated	24.00	Male	1.35
+Undiluted honey and water	Mated	24.00	Male	1.25
+Undiluted honey and water	Mated	24.00	Male	1.30
+Undiluted honey and water	Mated	25.00	Male	1.30
+Undiluted honey and water	Mated	25.00	Male	1.30
+Undiluted honey and water	Mated	25.00	Male	1.25
+Undiluted honey and water	Mated	26.00	Male	1.30
+Undiluted honey and water	Mated	25.00	Male	1.50
+Undiluted honey and water	Mated	25.00	Male	1.55
+Undiluted honey and water	Mated	26.00	Male	1.60
+Undiluted honey and water	Mated	24.00	Male	1.25
+Undiluted honey and water	Mated	24.00	Male	1.30
+Undiluted honey and water	Mated	24.00	Male	1.20
+Undiluted honey and water	Mated	24.00	Male	1.05
+Undiluted honey and water	Mated	24.00	Male	1.25
+Undiluted honey and water	Mated	24.00	Male	1.30
+Undiluted honey and water	Mated	24.00	Male	1.25
+Undiluted honey and water	Mated	25.00	Male	1.30
+Undiluted honey and water	Mated	24.00	Male	1.50
+Undiluted honey and water	Mated	24.00	Male	1.25
+Undiluted honey and water	Mated	26.00	Male	1.35
+Undiluted honey and water	Mated	26.00	Male	1.45
+Undiluted honey and water	Mated	27.00	Male	1.20
+Undiluted honey and water	Mated	23.00	Male	1.20
+Undiluted honey and water	Mated	23.00	Male	1.00
+Undiluted honey and water	Mated	23.00	Male	1.10
+Undiluted honey and water	Mated	23.00	Male	1.10
+Undiluted honey and water	Mated	23.00	Male	1.20
+Undiluted honey and water	Mated	24.00	Male	1.20
+Undiluted honey and water	Mated	25.00	Male	1.25
+Undiluted honey and water	Mated	25.00	Male	1.25
+Undiluted honey and water	Mated	25.00	Male	1.25
+Undiluted honey and water	Mated	26.00	Male	1.15
+Undiluted honey and water	Mated	26.00	Male	1.35
+Undiluted honey and water	Mated	26.00	Male	1.30
+Undiluted honey and water	Mated	27.00	Male	1.50
+Undiluted honey and water	Mated	26.00	Male	1.45
+Undiluted honey and water	Mated	26.00	Male	1.50
+Undiluted honey and water	Mated	26.00	Male	1.35
+Undiluted honey and water	Mated	26.00	Male	1.30
+Undiluted honey and water	Mated	27.00	Male	1.45
+Undiluted honey and water	Mated	26.00	Male	1.25
+Undiluted honey and water	Mated	26.00	Male	1.25
+Undiluted honey and water	Mated	26.00	Male	1.35
+Undiluted honey and water	Mated	24.00	Male	1.20
+Undiluted honey and water	Mated	24.00	Male	1.10
+Undiluted honey and water	Mated	24.00	Male	1.15
+Undiluted honey and water	Mated	25.00	Male	1.10
+Undiluted honey and water	Mated	25.00	Male	1.20
+Undiluted honey and water	Mated	25.00	Male	1.20
+Undiluted honey and water	Mated	25.00	Male	1.20
+Undiluted honey and water	Mated	24.00	Male	1.00
+Undiluted honey and water	Mated	24.00	Male	1.10
+Undiluted honey and water	Mated	24.00	Male	1.10
+Undiluted honey and water	Mated	24.00	Male	1.00
+Undiluted honey and water	Mated	24.00	Male	1.00
+Undiluted honey and water	Mated	24.00	Male	1.00
+Undiluted honey and water	Mated	24.00	Male	1.20
+Undiluted honey and water	Mated	24.00	Male	1.20
+Undiluted honey and water	Mated	24.00	Male	1.35
+Undiluted honey and water	Mated	24.00	Male	1.30
+Undiluted honey and water	Mated	24.00	Male	1.20
+Undiluted honey and water	Mated	27.00	Male	1.05
+Undiluted honey and water	Mated	27.00	Male	1.30
+Undiluted honey and water	Mated	27.00	Male	1.50
+Undiluted honey and water	Mated	28.00	Male	1.50
+Undiluted honey and water	Mated	28.00	Male	1.45
+Undiluted honey and water	Mated	28.00	Male	1.00
+Undiluted honey and water	Mated	26.00	Male	1.30
+Undiluted honey and water	Mated	27.00	Male	1.25
+Undiluted honey and water	Mated	27.00	Male	1.25
+Undiluted honey and water	Mated	27.00	Male	1.25
+Undiluted honey and water	Mated	24.00	Male	1.20
+Undiluted honey and water	Mated	24.00	Male	0.90
+Undiluted honey and water	Mated	24.00	Male	1.50
+Undiluted honey and water	Mated	24.00	Male	1.50
+Undiluted honey and water	Mated	25.00	Male	1.50
+Undiluted honey and water	Mated	26.00	Male	1.30
+Undiluted honey and water	Mated	26.00	Male	1.40
+Undiluted honey and water	Mated	27.00	Male	1.25
+Undiluted honey and water	Mated	27.00	Male	1.25
+Undiluted honey and water	Mated	24.00	Male	1.40
+Undiluted honey and water	Mated	24.00	Male	1.20
+Undiluted honey and water	Mated	25.00	Male	1.30
+Undiluted honey and water	Mated	26.00	Male	1.25
+Undiluted honey and water	Mated	26.00	Male	1.25
+Undiluted honey and water	Mated	27.00	Male	1.30
+Undiluted honey and water	Mated	27.00	Male	1.25
+Undiluted honey and water	Mated	27.00	Male	1.05
+Undiluted honey and water	Mated	23.00	Male	1.40
+Undiluted honey and water	Mated	24.00	Male	1.40
+Undiluted honey and water	Mated	24.00	Male	1.25
+Undiluted honey and water	Mated	24.00	Male	1.45
+Undiluted honey and water	Mated	24.00	Male	1.50
+Undiluted honey and water	Mated	25.00	Male	1.55
+Undiluted honey and water	Mated	26.00	Male	1.40
+Undiluted honey and water	Mated	27.00	Male	1.25
+Undiluted honey and water	Mated	28.00	Male	1.25
+Undiluted honey and water	Mated	28.00	Male	1.35
+Undiluted honey and water	Mated	28.00	Male	1.25
+Undiluted honey and water	Mated	28.00	Male	1.25
+Undiluted honey and water	Mated	25.00	Male	1.40
+Undiluted honey and water	Mated	26.00	Male	1.20
+Undiluted honey and water	Mated	26.00	Male	1.00
+Undiluted honey and water	Mated	26.00	Male	1.25
+Undiluted honey and water	Mated	26.00	Male	1.25
+Undiluted honey and water	Mated	27.00	Male	1.35
+Undiluted honey and water	Mated	27.00	Male	1.05
+Undiluted honey and water	Mated	27.00	Male	1.25
+Undiluted honey and water	Mated	27.00	Male	1.15
+Undiluted honey and water	Mated	27.00	Male	1.15
+Undiluted honey and water	Mated	27.00	Male	1.15
+Undiluted honey and water	Mated	27.00	Male	1.15
+Undiluted honey and water	Mated	27.00	Male	1.30
+Undiluted honey and water	Mated	28.00	Male	1.25
+Undiluted honey and water	Mated	25.00	Male	1.00
+Undiluted honey and water	Mated	25.00	Male	1.20
+Undiluted honey and water	Mated	26.00	Male	1.00
+Undiluted honey and water	Mated	26.00	Male	1.30
+Undiluted honey and water	Mated	26.00	Male	1.25
+Undiluted honey and water	Mated	28.00	Female	1.50
+Undiluted honey and water	Mated	28.00	Female	1.55
+Undiluted honey and water	Mated	28.00	Female	1.55
+Undiluted honey and water	Mated	29.00	Female	1.40
+Undiluted honey and water	Mated	28.00	Male	1.25
+Undiluted honey and water	Mated	28.00	Male	1.30
+Undiluted honey and water	Mated	28.00	Male	1.30
+Undiluted honey and water	Mated	33.00	Female	1.40
+Undiluted honey and water	Mated	24.00	Male	1.25
+Undiluted honey and water	Mated	24.00	Male	1.30
+Undiluted honey and water	Mated	24.00	Male	1.20
+Undiluted honey and water	Mated	26.00	Female	1.3
+Undiluted honey and water	Mated	24.00	Male	1.25
+Undiluted honey and water	Mated	25.00	Male	1.40
+Undiluted honey and water	Mated	25.00	Male	1.40
+Undiluted honey and water	Mated	26.00	Female	1.20
+Undiluted honey and water	Mated	26.00	Female	1.25
+Undiluted honey and water	Mated	25.00	Male	1.6
+Undiluted honey and water	Mated	24.00	Male	1.25
+Undiluted honey and water	Mated	25.00	Male	1.20
+Undiluted honey and water	Mated	27.00	Male	1.30
+Undiluted honey and water	Mated	27.00	Male	1.30
+Undiluted honey and water	Mated	27.00	Male	1.30
+Undiluted honey and water	Mated	26.00	Male	1.35
+Undiluted honey and water	Mated	26.00	Male	1.30
+Undiluted honey and water	Mated	25.00	Male	1.20
+Undiluted honey and water	Mated	25.00	Male	1.25
+Undiluted honey and water	Mated	25.00	Male	1.25
+Undiluted honey and water	Mated	25.00	Male	1.40
+Undiluted honey and water	Mated	25.00	Male	1.25
+Undiluted honey and water	Mated	26.00	Male	1.35
+Undiluted honey and water	Mated	26.00	Male	1.25
+Undiluted honey and water	Mated	26.00	Male	1.50
+Undiluted honey and water	Mated	26.00	Male	1.45
+Undiluted honey and water	Mated	27.00	Male	1.40
+Undiluted honey and water	Mated	27.00	Male	1.35
+Undiluted honey and water	Mated	29.00	Male	1.40
+Undiluted honey and water	Mated	29.00	Male	1.30
+Undiluted honey and water	Mated	25.00	Male	1.35
+Undiluted honey and water	Mated	25.00	Male	1.20
+Undiluted honey and water	Mated	26.00	Male	1.40
+Undiluted honey and water	Mated	26.00	Male	1.35
+Undiluted honey and water	Mated	26.00	Male	1.40
+Undiluted honey and water	Mated	27.00	Male	1.25
+Undiluted honey and water	Mated	29.00	Female	1.60
+Undiluted honey and water	Mated	29.00	Female	1.65
+Undiluted honey and water	Mated	25.00	Male	1.25
+Undiluted honey and water	Mated	28.00	Female	1.20
+Undiluted honey and water	Mated	29.00	Female	1.30
+Undiluted honey and water	Mated	29.00	Female	1.25
+Undiluted honey and water	Mated	28.00	Female	1.50
+Undiluted honey and water	Mated	29.00	Female	1.40
+Undiluted honey and water	Mated	29.00	Female	1.50
+Undiluted honey and water	Mated	28.00	Female	1.20
+Undiluted honey and water	Mated	29.00	Female	1.25
+Undiluted honey and water	Mated	25.00	Male	1.15
+Undiluted honey and water	Mated	26.00	Male	1.20
+Undiluted honey and water	Mated	26.00	Male	1.20
+Undiluted honey and water	Mated	26.00	Male	1.20
+Undiluted honey and water	Mated	29.00	Female	1.25
+Undiluted honey and water	Mated	26.00	Male	1.40
+Undiluted honey and water	Mated	26.00	Male	1.30
+Undiluted honey and water	Mated	29.00	Female	1.55
+Undiluted honey and water	Mated	30.00	Female	1.55
+Undiluted honey and water	Mated	30.00	Female	1.60
+Undiluted honey and water	Mated	24.00	Male	1.25
+Undiluted honey and water	Mated	28.00	Female	1.40
+Undiluted honey and water	Mated	28.00	Female	1.35
+Undiluted honey and water	Mated	28.00	Female	1.25
+Undiluted honey and water	Mated	28.00	Female	1.40
+Undiluted honey and water	Mated	29.00	Female	1.40
+Undiluted honey and water	Mated	29.00	Female	1.35
+Undiluted honey and water	Mated	29.00	Female	1.40
+Undiluted honey and water	Mated	25.00	Male	1.25
+Undiluted honey and water	Mated	25.00	Male	1.30
+Undiluted honey and water	Mated	27.00	Male	1.30
+Undiluted honey and water	Mated	29.00	Female	1.35
+Undiluted honey and water	Mated	29.00	Female	1.30
+Undiluted honey and water	Mated	25.00	Male	1.20
+Undiluted honey and water	Mated	25.00	Male	1.20
+Undiluted honey and water	Mated	26.00	Male	1.35
+Undiluted honey and water	Mated	26.00	Male	1.25
+Undiluted honey and water	Mated	26.00	Male	1.25
+Undiluted honey and water	Mated	27.00	Male	1.30
+Undiluted honey and water	Mated	27.00	Male	1.20
+Undiluted honey and water	Mated	27.00	Male	1.25
+Undiluted honey and water	Mated	28.00	Female	1.25
+Undiluted honey and water	Mated	28.00	Female	1.30
+Undiluted honey and water	Mated	29.00	Female	1.30
+Undiluted honey and water	Mated	29.00	Female	1.45
+Undiluted honey and water	Mated	29.00	Female	1.30
+Undiluted honey and water	Mated	29.00	Female	1.35
+Undiluted honey and water	Mated	25.00	Male	1.30
+Undiluted honey and water	Mated	28.00	Female	1.50
+Undiluted honey and water	Mated	28.00	Female	1.35
+Undiluted honey and water	Mated	28.00	Female	1.30
+Undiluted honey and water	Mated	28.00	Female	1.35
+Undiluted honey and water	Mated	24.00	Male	1.30
+Undiluted honey and water	Mated	27.00	Female	1.40
+Undiluted honey and water	Mated	28.00	Female	1.50
+Undiluted honey and water	Mated	28.00	Female	1.30
+Undiluted honey and water	Mated	25.00	Male	1.60
+Undiluted honey and water	Mated	29.00	Female	1.60
+Undiluted honey and water	Mated	25.00	Male	1.10
+Undiluted honey and water	Mated	26.00	Male	1.00
+Undiluted honey and water	Mated	27.00	Male	1.25
+Undiluted honey and water	Mated	27.00	Male	1.20
+Undiluted honey and water	Mated	27.00	Male	1.00
+Undiluted honey and water	Mated	30.00	Female	1.35
+Undiluted honey and water	Mated	30.00	Female	1.25
+Undiluted honey and water	Mated	30.00	Female	1.30
+Undiluted honey and water	Mated	28.00	Female	1.50
+Undiluted honey and water	Mated	28.00	Female	1.55
+Undiluted honey and water	Mated	29.00	Female	1.40
+Undiluted honey and water	Mated	29.00	Female	1.50
+Undiluted honey and water	Mated	25.00	Male	1.25
+Undiluted honey and water	Mated	25.00	Male	1.40
+Undiluted honey and water	Mated	25.00	Male	1.30
+Undiluted honey and water	Mated	26.00	Male	1.40
+Undiluted honey and water	Mated	27.00	Male	1.35
+Undiluted honey and water	Mated	28.00	Female	1.25
+Undiluted honey and water	Mated	28.00	Female	1.40
+Undiluted honey and water	Mated	29.00	Female	1.70
+Undiluted honey and water	Mated	25.00	Male	1.30
+Undiluted honey and water	Mated	25.00	Male	1.35
+Undiluted honey and water	Mated	25.00	Male	1.30
+Undiluted honey and water	Mated	28.00	Female	1.30
+Undiluted honey and water	Mated	28.00	Female	1.45
+Undiluted honey and water	Mated	29.00	Female	1.40
+Undiluted honey and water	Mated	24.00	Male	1.20
+Undiluted honey and water	Mated	25.00	Male	1.10
+Undiluted honey and water	Mated	26.00	Female	1.25
+Undiluted honey and water	Mated	28.00	Female	1.25
+Undiluted honey and water	Mated	28.00	Female	1.15
+Undiluted honey and water	Mated	28.00	Female	1.20
+Undiluted honey and water	Mated	26.00	Male	1.25
+Undiluted honey and water	Mated	26.00	Male	1.45
+Undiluted honey and water	Mated	26.00	Male	1.50
+Undiluted honey and water	Mated	29.00	Female	1.55
+Undiluted honey and water	Mated	29.00	Female	1.45
+Undiluted honey and water	Mated	25.00	Male	1.40
+Undiluted honey and water	Mated	26.00	Male	1.30
+Undiluted honey and water	Mated	26.00	Male	1.50
+Undiluted honey and water	Mated	30.00	Male	1.40
+Undiluted honey and water	Mated	25.00	Male	1.50
+Undiluted honey and water	Mated	25.00	Male	1.40
+Undiluted honey and water	Mated	26.00	Male	1.40
+Undiluted honey and water	Mated	29.00	Female	1.40
+Undiluted honey and water	Mated	29.00	Female	1.50
+Undiluted honey and water	Mated	26.00	Male	1.05
+Undiluted honey and water	Mated	26.00	Male	1.25
+Undiluted honey and water	Mated	28.00	Female	1.40
+Undiluted honey and water	Mated	25.00	Male	1.05
+Undiluted honey and water	Mated	25.00	Male	1.15
+Undiluted honey and water	Mated	26.00	Male	1.10
+Undiluted honey and water	Mated	26.00	Male	1.25
+Undiluted honey and water	Mated	29.00	Female	1.30
+Undiluted honey and water	Mated	29.00	Female	1.25
+Undiluted honey and water	Mated	28.00	Female	1.40
+Undiluted honey and water	Mated	28.00	Female	1.50
+Undiluted honey and water	Mated	29.00	Female	1.50
+Undiluted honey and water	Mated	29.00	Female	1.45
+Undiluted honey and water	Mated	29.00	Female	1.50
+Undiluted honey and water	Mated	28.00	Female	1.40
+Undiluted honey and water	Mated	28.00	Female	1.45
+Undiluted honey and water	Mated	26.00	Male	1.30
+Undiluted honey and water	Mated	28.00	Female	1.60
+Honey agar diet and water	Mated	31.00	Female	1.40
+Honey agar diet and water	Mated	33.00	Female	1.50
+Honey agar diet and water	Mated	33.00	Female	1.60
+Honey agar diet and water	Mated	36.00	Female	1.40
+Honey agar diet and water	Mated	28.00	Female	1.60
+Honey agar diet and water	Mated	30.00	Female	1.50
+Honey agar diet and water	Mated	29.00	Female	1.45
+Honey agar diet and water	Mated	31.00	Female	1.25
+Honey agar diet and water	Mated	30.00	Female	1.50
+Honey agar diet and water	Mated	30.00	Female	1.45
+Honey agar diet and water	Mated	31.00	Female	1.55
+Honey agar diet and water	Mated	31.00	Female	1.50
+Honey agar diet and water	Mated	31.00	Female	1.60
+Honey agar diet and water	Mated	32.00	Female	1.65
+Honey agar diet and water	Mated	33.00	Female	1.50
+Honey agar diet and water	Mated	29.00	Female	1.45
+Honey agar diet and water	Mated	30.00	Female	1.45
+Honey agar diet and water	Mated	31.00	Female	1.60
+Honey agar diet and water	Mated	31.00	Female	1.50
+Honey agar diet and water	Mated	30.00	Female	1.50
+Honey agar diet and water	Mated	30.00	Female	1.35
+Honey agar diet and water	Mated	31.00	Female	1.55
+Honey agar diet and water	Mated	32.00	Female	1.55
+Honey agar diet and water	Mated	31.00	Female	1.55
+Honey agar diet and water	Mated	32.00	Female	1.60
+Honey agar diet and water	Mated	33.00	Female	1.55
+Honey agar diet and water	Mated	27.00	Female	1.55
+Honey agar diet and water	Mated	28.00	Female	1.55
+Honey agar diet and water	Mated	28.00	Female	1.60
+Honey agar diet and water	Mated	27.00	Male	1.45
+Honey agar diet and water	Mated	27.00	Male	1.25
+Honey agar diet and water	Mated	27.00	Male	1.35
+Honey agar diet and water	Mated	27.00	Male	1.35
+Honey agar diet and water	Mated	24.00	Female	1.50
+Honey agar diet and water	Mated	24.00	Female	1.50
+Honey agar diet and water	Mated	27.00	Male	1.50
+Honey agar diet and water	Mated	27.00	Male	1.50
+Honey agar diet and water	Mated	30.00	Female	1.50
+Honey agar diet and water	Mated	30.00	Female	1.55
+Honey agar diet and water	Mated	25.00	Male	1.25
+Honey agar diet and water	Mated	25.00	Male	1.15
+Honey agar diet and water	Mated	26.00	Male	1.25
+Honey agar diet and water	Mated	26.00	Male	1.30
+Honey agar diet and water	Mated	27.00	Female	1.25
+Honey agar diet and water	Mated	27.00	Male	1.30
+Honey agar diet and water	Mated	28.00	Female	1.30
+Honey agar diet and water	Mated	25.00	Male	1.20
+Honey agar diet and water	Mated	26.00	Female	1.50
+Honey agar diet and water	Mated	28.00	Female	1.55
+Honey agar diet and water	Mated	27.00	Male	1.40
+Honey agar diet and water	Mated	27.00	Male	1.55
+Honey agar diet and water	Mated	27.00	Male	1.45
+Honey agar diet and water	Mated	28.00	Female	1.70
+Honey agar diet and water	Mated	30.00	Male	1.35
+Honey agar diet and water	Mated	30.00	Male	1.45
+Honey agar diet and water	Mated	31.00	Male	1.45
+Honey agar diet and water	Mated	32.00	Female	1.55
+Honey agar diet and water	Mated	32.00	Female	1.60
+Honey agar diet and water	Mated	30.00	Male	1.35
+Honey agar diet and water	Mated	31.00	Male	1.20
+Honey agar diet and water	Mated	33.00	Female	1.60
+Honey agar diet and water	Mated	33.00	Female	1.35
+Honey agar diet and water	Mated	33.00	Female	1.40
+Honey agar diet and water	Mated	30.00	Male	1.30
+Honey agar diet and water	Mated	30.00	Male	1.35
+Honey agar diet and water	Mated	30.00	Male	1.15
+Honey agar diet and water	Mated	30.00	Male	1.40
+Honey agar diet and water	Mated	29.00	Male	1.25
+Honey agar diet and water	Mated	29.00	Male	1.35
+Honey agar diet and water	Mated	29.00	Male	1.25
+Honey agar diet and water	Mated	29.00	Male	1.45
+Honey agar diet and water	Mated	30.00	Male	1.30
+Honey agar diet and water	Mated	30.00	Male	1.10
+Honey agar diet and water	Mated	26.00	Female	1.40
+Honey agar diet and water	Mated	27.00	Female	1.30
+Honey agar diet and water	Mated	27.00	Female	1.25
+Honey agar diet and water	Mated	27.00	Female	1.45
+Honey agar diet and water	Mated	28.00	Female	1.50
+Honey agar diet and water	Mated	22.00	Male	1.40
+Honey agar diet and water	Mated	24.00	Female	1.55
+Honey agar diet and water	Mated	24.00	Female	1.45
+Honey agar diet and water	Mated	24.00	Female	1.35
+Honey agar diet and water	Mated	25.00	Female	1.55
+Honey agar diet and water	Mated	25.00	Female	1.55
+Honey agar diet and water	Mated	26.00	Male	1.50
+Honey agar diet and water	Mated	27.00	Female	1.55
+Honey agar diet and water	Mated	28.00	Female	1.55
+Honey agar diet and water	Mated	25.00	Female	1.60
+Honey agar diet and water	Mated	28.00	Female	1.50
+Honey agar diet and water	Mated	29.00	Female	1.50
+Honey agar diet and water	Mated	31.00	Female	1.70
+Honey agar diet and water	Mated	31.00	Female	1.45
+Honey agar diet and water	Mated	30.00	Female	1.45
+Honey agar diet and water	Mated	30.00	Female	1.40
+Honey agar diet and water	Mated	31.00	Female	1.55
+Honey agar diet and water	Mated	31.00	Female	1.50
+Honey agar diet and water	Mated	31.00	Female	1.50
+Honey agar diet and water	Mated	28.00	Male	1.35
+Honey agar diet and water	Mated	29.00	Male	1.40
+Honey agar diet and water	Mated	31.00	Female	1.55
+Honey agar diet and water	Mated	31.00	Female	1.45
+Honey agar diet and water	Mated	26.00	Male	1.50
+Honey agar diet and water	Mated	28.00	Male	1.30
+Honey agar diet and water	Mated	28.00	Male	1.30
+Honey agar diet and water	Mated	28.00	Female	1.40
+Honey agar diet and water	Mated	29.00	Female	1.45
+Honey agar diet and water	Mated	31.00	Female	1.50
+Honey agar diet and water	Mated	31.00	Female	1.50
+Honey agar diet and water	Mated	31.00	Female	1.35
+Honey agar diet and water	Mated	26.00	Male	1.25
+Honey agar diet and water	Mated	26.00	Male	1.40
+Honey agar diet and water	Mated	28.00	Male	1.35
+Honey agar diet and water	Mated	28.00	Male	1.40
+Honey agar diet and water	Mated	26.00	Female	1.35
+Honey agar diet and water	Mated	29.00	Female	1.45
+Honey agar diet and water	Mated	28.00	Female	1.40
+Honey agar diet and water	Mated	30.00	Female	1.40
+Honey agar diet and water	Mated	30.00	Female	1.50
+Honey agar diet and water	Mated	31.00	Female	1.45
+Honey agar diet and water	Mated	31.00	Female	1.50
+Honey agar diet and water	Mated	31.00	Female	1.35
+Honey agar diet and water	Mated	30.00	Female	1.45
+Honey agar diet and water	Mated	30.00	Female	1.45
+Honey agar diet and water	Mated	30.00	Female	1.40
+Honey agar diet and water	Mated	31.00	Female	1.55
+Honey agar diet and water	Mated	28.00	Male	1.40
+Honey agar diet and water	Mated	29.00	Male	1.55
+Honey agar diet and water	Mated	29.00	Male	1.45
+Honey agar diet and water	Mated	30.00	Female	1.70
+Honey agar diet and water	Mated	30.00	Female	1.40
+Honey agar diet and water	Mated	30.00	Female	1.30
+Honey agar diet and water	Mated	29.00	Female	1.25
+Honey agar diet and water	Mated	29.00	Female	1.45
+Honey agar diet and water	Mated	30.00	Female	1.25
+Honey agar diet and water	Mated	30.00	Female	1.50
+Honey agar diet and water	Mated	30.00	Female	1.45
+Honey agar diet and water	Mated	28.00	Male	1.20
+Honey agar diet and water	Mated	28.00	Male	1.40
+Honey agar diet and water	Mated	28.00	Male	1.30
+Honey agar diet and water	Mated	28.00	Male	1.30
+Honey agar diet and water	Mated	27.00	Male	1.50
+Honey agar diet and water	Mated	27.00	Male	1.40
+Honey agar diet and water	Mated	29.00	Female	1.60
+Honey agar diet and water	Mated	29.00	Female	1.45
+Honey agar diet and water	Mated	29.00	Female	1.35
+Honey agar diet and water	Mated	30.00	Female	1.45
+Honey agar diet and water	Mated	30.00	Female	1.30
+Honey agar diet and water	Mated	26.00	Male	1.40
+Honey agar diet and water	Mated	29.00	Female	1.35
+Honey agar diet and water	Mated	29.00	Female	1.35
+Honey agar diet and water	Mated	30.00	Female	1.50
+Honey agar diet and water	Mated	30.00	Female	1.20
+Honey agar diet and water	Mated	30.00	Female	1.30
+Honey agar diet and water	Mated	31.00	Female	1.30
+Honey agar diet and water	Mated	31.00	Female	1.35
+Honey agar diet and water	Mated	26.00	Male	1.20
+Honey agar diet and water	Mated	27.00	Male	1.25
+Honey agar diet and water	Mated	28.00	Male	1.40
+Honey agar diet and water	Mated	28.00	Female	1.40
+Honey agar diet and water	Mated	29.00	Male	1.30
+Honey agar diet and water	Mated	29.00	Female	1.30
+Honey agar diet and water	Mated	30.00	Female	1.35
+Honey agar diet and water	Mated	30.00	Female	1.35
+Honey agar diet and water	Mated	25.00	Male	1.20
+Honey agar diet and water	Mated	25.00	Male	1.30
+Honey agar diet and water	Mated	27.00	Female	1.35
+Honey agar diet and water	Mated	28.00	Male	1.30
+Honey agar diet and water	Mated	28.00	Female	1.40
+Honey agar diet and water	Mated	28.00	Female	1.20
+Honey agar diet and water	Mated	27.00	Male	1.35
+Honey agar diet and water	Mated	27.00	Male	1.40
+Honey agar diet and water	Mated	27.00	Male	1.55
+Honey agar diet and water	Mated	27.00	Male	1.45
+Honey agar diet and water	Mated	27.00	Male	1.20
+Honey agar diet and water	Mated	26.00	Male	1.30
+Honey agar diet and water	Mated	27.00	Female	1.55
+Honey agar diet and water	Mated	27.00	Male	1.30
+Honey agar diet and water	Mated	31.00	Female	1.35
+Honey agar diet and water	Mated	28.00	Male	1.50
+Honey agar diet and water	Mated	28.00	Male	1.50
+Honey agar diet and water	Mated	27.00	Male	1.20
+Honey agar diet and water	Mated	27.00	Male	1.30
+Honey agar diet and water	Mated	28.00	Male	1.30
+Honey agar diet and water	Mated	28.00	Male	1.25
+Honey agar diet and water	Mated	28.00	Male	1.35
+Honey agar diet and water	Mated	28.00	Male	1.40
+Honey agar diet and water	Mated	25.00	Male	1.10
+Honey agar diet and water	Mated	27.00	Male	1.45
+Honey agar diet and water	Mated	27.00	Male	1.30
+Honey agar diet and water	Mated	27.00	Male	1.30
+Honey agar diet and water	Mated	30.00	Female	1.45
+Honey agar diet and water	Mated	30.00	Female	1.30
+Honey agar diet and water	Mated	30.00	Female	1.50
+Honey agar diet and water	Mated	31.00	Female	1.55
+Honey agar diet and water	Mated	31.00	Female	1.45
+Honey agar diet and water	Mated	27.00	Male	0.90
+Honey agar diet and water	Mated	27.00	Male	1.35
+Honey agar diet and water	Mated	27.00	Male	1.40
+Honey agar diet and water	Mated	27.00	Male	0.90
+Honey agar diet and water	Mated	28.00	Male	1.00
+Honey agar diet and water	Mated	30.00	Male	1.40
+Honey agar diet and water	Mated	32.00	Female	1.40
+Honey agar diet and water	Mated	32.00	Female	1.50
+Honey agar diet and water	Mated	27.00	Male	1.15
+Honey agar diet and water	Mated	27.00	Male	1.35
+Honey agar diet and water	Mated	29.00	Male	1.25
+Honey agar diet and water	Mated	29.00	Male	1.20
+Honey agar diet and water	Mated	30.00	Female	1.40
+Honey agar diet and water	Mated	30.00	Female	1.35
+Honey agar diet and water	Mated	27.00	Male	1.15
+Honey agar diet and water	Mated	27.00	Male	1.00
+Honey agar diet and water	Mated	27.00	Male	1.10
+Honey agar diet and water	Mated	28.00	Male	1.00
+Honey agar diet and water	Mated	28.00	Male	1.20
+Honey agar diet and water	Mated	28.00	Male	1.15
+Honey agar diet and water	Mated	27.00	Male	1.00
+Honey agar diet and water	Mated	27.00	Male	1.00
+Honey agar diet and water	Mated	29.00	Female	1.20
+Honey agar diet and water	Mated	29.00	Female	1.15
+Honey agar diet and water	Mated	30.00	Female	1.15
+Honey agar diet and water	Mated	26.00	Male	1.50
+Honey agar diet and water	Mated	26.00	Male	1.20
+Honey agar diet and water	Mated	26.00	Male	1.20
+Honey agar diet and water	Mated	26.00	Male	1.30
+Honey agar diet and water	Mated	26.00	Male	1.25
+Honey agar diet and water	Mated	26.00	Male	1.20
+Honey agar diet and water	Mated	26.00	Male	1.25
+Honey agar diet and water	Mated	26.00	Male	1.15
+Honey agar diet and water	Mated	27.00	Male	0.85
+Honey agar diet and water	Mated	27.00	Male	1.20
+Honey agar diet and water	Mated	26.00	Male	1.20
+Honey agar diet and water	Mated	29.00	Female	1.25
+Honey agar diet and water	Mated	30.00	Female	1.30
+Honey agar diet and water	Mated	30.00	Female	1.20
+Honey agar diet and water	Mated	30.00	Female	1.50
+Honey agar diet and water	Mated	26.00	Male	1.05
+Honey agar diet and water	Mated	27.00	Female	1.20
+Honey agar diet and water	Mated	28.00	Female	1.25
+Honey agar diet and water	Mated	28.00	Female	1.20
+Honey agar diet and water	Mated	27.00	Male	1.20
+Honey agar diet and water	Mated	27.00	Male	1.30
+Honey agar diet and water	Mated	27.00	Male	1.20
+Honey agar diet and water	Mated	29.00	Female	1.50
+Honey agar diet and water	Mated	27.00	Male	1.50
+Honey agar diet and water	Mated	28.00	Male	1.40
+Honey agar diet and water	Mated	30.00	Female	1.55
+Honey agar diet and water	Mated	30.00	Female	1.60
+Honey agar diet and water	Mated	30.00	Female	1.55
+Honey agar diet and water	Mated	29.00	Female	1.50
+Honey agar diet and water	Mated	30.00	Female	1.50
+Honey agar diet and water	Mated	30.00	Female	1.60
+Honey agar diet and water	Mated	30.00	Female	1.55
+Honey agar diet and water	Mated	28.00	Female	1.60
+Honey agar diet and water	Mated	28.00	Female	1.55
+Honey agar diet and water	Mated	28.00	Female	1.50
+Honey agar diet and water	Mated	29.00	Female	1.40
+Honey agar diet and water	Mated	29.00	Female	1.50
+Honey agar diet and water	Mated	29.00	Female	1.50
+Honey agar diet and water	Mated	26.00	Male	1.35
+Honey agar diet and water	Mated	27.00	Male	1.40
+Honey agar diet and water	Mated	27.00	Male	1.00
+Honey agar diet and water	Mated	29.00	Female	1.40
+Honey agar diet and water	Mated	30.00	Female	1.50
+Honey agar diet and water	Mated	26.00	Male	1.15
+Honey agar diet and water	Mated	27.00	Male	1.30
+Honey agar diet and water	Mated	27.00	Male	1.05
+Honey agar diet and water	Mated	27.00	Male	1.05
+Honey agar diet and water	Mated	29.00	Female	1.40
+Honey agar diet and water	Mated	26.00	Male	1.45
+Honey agar diet and water	Mated	31.00	Female	1.55
+Honey agar diet and water	Mated	32.00	Female	1.50
+Honey agar diet and water	Mated	29.00	Female	1.50
+Honey agar diet and water	Mated	30.00	Female	1.55
+Honey agar diet and water	Mated	26.00	Male	1.00
+Honey agar diet and water	Mated	27.00	Male	1.05
+Honey agar diet and water	Mated	28.00	Male	1.00
+Honey agar diet and water	Mated	28.00	Male	1.25
+Honey agar diet and water	Mated	28.00	Male	1.15
+Honey agar diet and water	Mated	30.00	Female	1.30
+Honey agar diet and water	Mated	26.00	Male	1.40
+Honey agar diet and water	Mated	27.00	Male	1.25
+Honey agar diet and water	Mated	28.00	Female	1.60
+Honey agar diet and water	Mated	28.00	Female	1.50
+Honey agar diet and water	Mated	28.00	Female	1.35
+Honey agar diet and water	Mated	29.00	Female	1.40
+Honey agar diet and water	Mated	29.00	Female	1.35
+Honey agar diet and water	Mated	29.00	Female	1.40
+Honey agar diet and water	Mated	30.00	Female	1.55
+Honey agar diet and water	Mated	25.00	Male	1.55
+Honey agar diet and water	Mated	29.00	Female	1.50
+Honey agar diet and water	Mated	29.00	Female	1.20
+Honey agar diet and water	Mated	29.00	Female	1.30
+Honey agar diet and water	Mated	29.00	Female	1.25
+Honey agar diet and water	Mated	29.00	Female	1.40
+Honey agar diet and water	Mated	31.00	Female	1.25
+Honey agar diet and water	Mated	25.00	Male	1.15
+Honey agar diet and water	Mated	26.00	Male	1.20
+Honey agar diet and water	Mated	26.00	Male	1.30
+Honey agar diet and water	Mated	28.00	Male	1.15
+Honey agar diet and water	Mated	28.00	Female	1.30
+Honey agar diet and water	Mated	28.00	Male	1.50
+Honey agar diet and water	Mated	29.00	Female	1.40
+Honey agar diet and water	Mated	29.00	Female	1.50
+Honey agar diet and water	Mated	29.00	Female	1.30
+Honey agar diet and water	Mated	30.00	Female	1.40
+Honey agar diet and water	Mated	30.00	Female	1.40
+Honey agar diet and water	Mated	31.00	Female	1.50
+Honey agar diet and water	Mated	28.00	Male	1.40
+Honey agar diet and water	Mated	28.00	Female	1.50
+Honey agar diet and water	Mated	24.00	Male	1.30
+Honey agar diet and water	Mated	26.00	Male	1.35
+Honey agar diet and water	Mated	26.00	Male	1.35
+Honey agar diet and water	Mated	28.00	Female	1.25
+Honey agar diet and water	Mated	30.00	Female	1.30
+Honey agar diet and water	Mated	24.00	Male	1.20
+Honey agar diet and water	Mated	26.00	Male	1.15
+Honey agar diet and water	Mated	26.00	Male	1.50
+Honey agar diet and water	Mated	27.00	Male	1.40
+Honey agar diet and water	Mated	26.00	Male	1.25
+Honey agar diet and water	Mated	27.00	Male	1.30
+Honey agar diet and water	Mated	28.00	Male	1.45
+Honey agar diet and water	Mated	28.00	Male	1.25
+Honey agar diet and water	Mated	31.00	Female	1.60
+Honey agar diet and water	Mated	30.00	Female	1.55
+Honey agar diet and water	Mated	30.00	Female	1.60
+Honey agar diet and water	Mated	28.00	Female	1.25
+Honey agar diet and water	Mated	28.00	Female	1.35
+Honey agar diet and water	Mated	29.00	Female	1.30
+Honey agar diet and water	Mated	29.00	Female	1.20
+Honey agar diet and water	Mated	29.00	Female	1.40
+Honey agar diet and water	Mated	30.00	Female	1.25
+Honey agar diet and water	Mated	31.00	Female	1.30
+Honey agar diet and water	Mated	31.00	Female	1.30
+Honey agar diet and water	Mated	26.00	Male	1.40
+Honey agar diet and water	Mated	26.00	Male	1.40
+Honey agar diet and water	Mated	27.00	Female	1.35
+Honey agar diet and water	Mated	27.00	Male	1.40
+Honey agar diet and water	Mated	29.00	Female	1.65
+Honey agar diet and water	Mated	30.00	Female	1.35
+Honey agar diet and water	Mated	30.00	Female	1.30
+Honey agar diet and water	Mated	31.00	Female	1.25
+Honey agar diet and water	Mated	30.00	Female	1.40
+Honey agar diet and water	Mated	30.00	Female	1.35
+Honey agar diet and water	Mated	30.00	Female	1.50
+Honey agar diet and water	Mated	30.00	Female	1.35
+Honey agar diet and water	Mated	31.00	Female	1.55
+Honey agar diet and water	Mated	31.00	Female	1.40
+Honey agar diet and water	Mated	27.00	Male	1.55
+Honey agar diet and water	Mated	27.00	Male	1.60
+Honey agar diet and water	Mated	28.00	Male	1.55
+Honey agar diet and water	Mated	28.00	Female	1.50
+Honey agar diet and water	Mated	29.00	Female	1.45
+Honey agar diet and water	Mated	30.00	Female	1.45
+Honey agar diet and water	Mated	26.00	Male	1.60
+Honey agar diet and water	Mated	26.00	Male	1.50
+Honey agar diet and water	Mated	29.00	Male	1.45
+Honey agar diet and water	Mated	30.00	Female	1.40

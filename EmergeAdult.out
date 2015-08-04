@@ -1,0 +1,66 @@
+Refers to the Tab "Emergence" as distinct from "Adult emergence" which
+is not a proportion.
+
+
+Call:
+glm.nb(formula = Adults ~ NomTemp + offset(log(Cocoons)), data = emerge.df, 
+    maxit = 150, init.theta = 243554575700000, link = log)
+
+Deviance Residuals: 
+     Min        1Q    Median        3Q       Max  
+-2.47909  -0.09174   0.11712   0.26050   0.51306  
+
+Coefficients:
+            Estimate Std. Error z value Pr(>|z|)
+(Intercept) -0.14389    0.10911  -1.319    0.187
+NomTemp18   -0.03480    0.18342  -0.190    0.850
+NomTemp21    0.08883    0.17542   0.506    0.613
+NomTemp22    0.12284    0.18216   0.674    0.500
+NomTemp24    0.08327    0.18094   0.460    0.645
+NomTemp27   -0.02938    0.19731  -0.149    0.882
+
+(Dispersion parameter for Negative Binomial(2.435546e+14) family taken to be 1)
+
+    Null deviance: 19.320  on 74  degrees of freedom
+Residual deviance: 18.812  on 69  degrees of freedom
+AIC: 422
+
+Number of Fisher Scoring iterations: 1
+
+Error in prettyNum(.Internal(format(x, trim, digits, nsmall, width, 3L,  : 
+  invalid 'nsmall' argument
+**************************************************************************
+Call:
+glm.nb(formula = Adults ~ TempRec + offset(log(Cocoons)), data = emerge.df, 
+    maxit = 150, init.theta = 1014645413000, link = log)
+
+Deviance Residuals: 
+    Min       1Q   Median       3Q      Max  
+-2.6102  -0.1640   0.1812   0.2427   0.3861  
+
+Coefficients:
+             Estimate Std. Error z value Pr(>|z|)
+(Intercept) -0.190908   0.270781  -0.705    0.481
+TempRec      0.004058   0.012973   0.313    0.754
+
+(Dispersion parameter for Negative Binomial(1.014645e+12) family taken to be 1)
+
+    Null deviance: 19.811  on 74  degrees of freedom
+Residual deviance: 19.709  on 73  degrees of freedom
+AIC: 261.53
+
+Number of Fisher Scoring iterations: 1
+
+
+              Theta:  1.014645e+12 
+          Std. Err.:  4.890966e+12 
+
+ 2 x log-likelihood:  -255.531 
+
+        fit   se.fit           fit   se.fit 
+15 87.68515 8.202646   15 86.59794  9.44861 
+18 89.10199 5.437203   18 83.63636 12.33151 
+21 89.87914 5.079036   21 94.64286 13.00020 
+22 90.42423 5.525715   22 97.91667 14.28261 
+24 91.34255 7.253577   24 94.11765 13.58471 
+27 92.31514 9.787965   27 84.09091 13.82446

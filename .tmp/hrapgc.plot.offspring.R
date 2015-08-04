@@ -1,0 +1,30 @@
+plot.offspring <- function(xx = offspring.df, span = .75, ...)
+{
+### Purpose:- Offspring produced per day by 10 females
+### ----------------------------------------------------------------------
+### Modified from:- 
+### ----------------------------------------------------------------------
+### Arguments:- 
+### ----------------------------------------------------------------------
+### Author:-   Patrick Connolly, Date:-  4 Nov 2014, 10:43
+### ----------------------------------------------------------------------
+### Revisions:- 
+  offs <- apply(xx[1:36, -11], 1, FUN= sum, na.rm = TRUE)/10
+  days <- offspring.df$Day[1:36]
+#  
+  plot(offs ~ days, xlab = "Days", main = "Tab: Offspring produced per day",
+                                    ylab = "Offspring per adult female")
+  off.lo <- loess(offs ~ days, degree = 2, span = span)
+  off.lo.pred <- predict(off.lo, se = TRUE)
+  sems <- rms(off.lo.pred$se.fit) # overall fitting error
+  
+  spline.off <- spline(days, off.lo.pred$fit, n = 400)
+  with(spline.off, lines(x, y))
+  bar.legs(xp = 0.85, yp = 0.9, ebv = sems, labs = "SE of fit", colour = F,
+    pchs = NULL, ltys = NULL)
+  xxx <- data.frame(days, offs)
+##   browser()
+    require(ggplot2)
+  qplot(days, offs, data = xxx, ylim = c(0, 4)) + geom_smooth(method = "loess", span = span)
+
+}

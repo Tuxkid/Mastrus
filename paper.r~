@@ -1,0 +1,60 @@
+devel.df <- read.delim("development.txt")
+devel.df$TempNom <- factor(devel.df$TempNom)
+
+bwplot(TempNom ~ Days | Sex, data = devel.df)
+bwplot(Sex~ Days | TempNom , data = devel.df)
+bwplot(Sex~ Length | TempNom , data = devel.df)
+
+length.lm <- lm(Length~ TempNom + Sex, data = devel.df)
+anova(length.lm)
+anova(update(length.lm, . ~. -Sex))
+new.df <- data.frame(TempNom = unique(devel.df[,1]))
+predict(update(length.lm, . ~. -Sex), new.df)
+length.df <- within(new.df, Length <- predict(update(length.lm, . ~. -Sex), new.df))
+aggregate(Length~ TempNom, data = devel.df, FUN = mean)
+aggregate(Length~ TempNom, data = devel.df, FUN = sem)
+aggregate(Length~ TempNom, data = devel.df, FUN = length)
+
+aggregate(Days~ TempNom, data = devel.df, FUN = mean)
+aggregate(Days~ TempNom, data = devel.df, FUN = sem)
+aggregate(Days~ TempNom, data = devel.df, FUN = length)
+
+
+require(reshape2)
+dcast(devel.df, Length~ TempNom, fun.aggregate = mean)
+
+length.aov <- aov(Length~ TempNom, data = devel.df)
+model.tables(length.aov, type = "means", se = TRUE)
+summary(length.lm)
+
+## non-linear fit (Lactin, et al model)
+plot.develop(devel.df, rnd = 7) # Non-linearFit.pdf
+## show below the x axis
+plot.develop2(devel.df, rnd = 7) # Non-linearFit2.pdf 
+## Logan model of same data
+plot.developA(devel.df, rnd = 7) # Non-linearFitA.pdf 
+options(digits = 10)
+
+
+
+## with a Tmin with its own exponent multiplier and an intercept 
+plot.developC2() # >> Non-linearFitC2.pdf
+## with no intercept
+plot.developC() # >> Non-linearFitC.pdf
+
+
+#####
+## Emerged
+emerge.df <- read.delim("emerge.txt")
+long.emerge.df <- melt(emerge.df, id = names(emerge.df)[1:3],
+                       variable.name = "State", value.name = "Count")
+long.emerge.df <- within(long.emerge.df, NomTemp <- factor(NomTemp))
+
+bwplot(State~Count | TempRec, data = long.emerge.df)
+bwplot(State~Count | NomTemp, data = long.emerge.df)
+xyplot(jitter(Count) ~ jitter(TempRec) | State, data = long.emerge.df)
+emerge.df <- within(emerge.df, NomTemp <- factor(NomTemp))
+emerge.glms()
+
+
+

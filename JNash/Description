@@ -1,0 +1,72 @@
+The attached PDFs show plots of the development rates of males and
+females of an insect at a range of temperatures.  The development rate
+is simply the inverse of the number of days needed for development to
+occur.  Entomologists are interested in the temperatures at which it
+is too cold or too hot for development to occur, that is, when
+development takes an infinite number of days.
+
+Naturally, that can't be measured directly and so extrapolation is
+necessary from the points that can be measured.  Fig 1 shows the
+approach taken by Logan in 1976.  Despite the sparsity of points to
+describe what happens after the turning point, it looks like a fairly
+good indicator of the maximum temperature.  It is not useful at
+indicating the lower temperature limit for obvious reasons.  Because
+of that, the common practice was to use an extrapolation of the points
+that formed a fairly linear relationship and use its intercept to
+ascertain the lower limit.
+
+Years later, Lactin, et al introduced a constant term which had the
+effect of making the lower intercept more realisitic than the linear
+one.  Fig 2 shows that approach in which the upper temperature
+intercept is slightly less realistic than in Fig 1.  Fig 2a is the
+same equation and though not biologically credible, I've included to
+show what happens mathematically.
+
+The equations at the top are simply calculated from the coefficients
+listed in the small table.  Don't be surprised if you spot some
+arithmetic errors in them on some of the plots.  At this stage, it's
+not very important.
+
+
+My first attempt at improving the approach was to add a term for the
+minimum temperature as in Fig 3.  The value of Tmin is so close to
+zero that it makes virtually no difference.  But dropping the constant
+(lambda) does ridiculous things to the Tmax value (Fig 4 c.f. Fig 1).
+
+My next attempt was to use different values of rho as in Fig 5.  It
+comes up with values for Tmin which could make biological sense but
+they bear little relationship to the intercept on the x axis.
+Omitting the constant lambda gets even crazier (Fig 6).
+
+I'm coming around to the idea that Fig 2 is probably as good as we're
+likely to get.  I'm trying to get the entomologists into thinking
+along the lines of a development rate something greater than zero
+(maybe 1% of the maximum development rate) would make more biological
+sense particularly at the minimum temperature.  It's low temperature
+adaptation of most interest in this part of the world which is why I
+was attempting to get Tmin into the expression.  Evidently, something
+a bit more elaborate would be needed to get Tmin to correspond to zero
+development.  It might be that the task is too difficult with such a
+large amount of extrapolation required.
+
+
+I've included files xxM and xxF which you can dget() into R dataframes
+to play with.  For your purposes, there's probably nothing particularly
+interesting about the difference between the male and female response
+but I've included both in case that was of interest.  I've used them
+like this:
+
+nlxb(Dev ~ exp(rho * (T - Tmin)) -
+     exp(rho * Tmax - (Tmax - T)/del), data = xxF,#
+     lower = c(rho = .1, del = 2, Tmax = 28, Tmin = .2),
+     upper = c(rho = 3, del = 18, Tmax = 40, Tmin = 14),
+     start = c(rho = .13, del = 8, Tmax = 38, Tmin = 4.2))
+
+and:
+
+nlxb(Dev ~ exp(tau * (T - Tmin)) + lam -
+     exp(rho*Tmax - (Tmax - T)/del), data = xxF, ## trace = TRUE, 
+     lower = c(tau = .006, rho = .001, del = 3, Tmax = 28, Tmin = .2, lam = -5),
+     upper = c(tau = 1.6, rho = 1.3, del = 11, Tmax = 39, Tmin = 6, lam = -.002),
+     start = c(tau = .15, rho = .13, del = 4, Tmax = 30, Tmin = 4, lam = -4.5))
+

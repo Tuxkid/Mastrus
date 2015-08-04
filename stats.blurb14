@@ -1,0 +1,192 @@
+Tab: Developmental time
+
+Simple ANOVAs were used to test for the effects of temperature and Sex
+on the number of days until emergence and on the tibia length.
+Tukey's HSD was used to allow for the fact that multiple comarisons
+were being made and the degree of imbalance in the data.
+
+Days to develop and standard errors:
+
+
+  TempNom Sex     Days        SE
+     11   M 86.06780 0.6603410
+     11   F 89.20000 0.6548151
+     15   M 45.05128 0.8121981
+     15   F 49.30233 0.7734995
+     18   M 29.89655 0.9418794
+     18   F 32.23529 1.2301833
+     21   M 23.77419 0.9109896
+     21   F 25.82609 1.0576217
+     22   M 21.80952 1.1068395
+     22   F 23.53846 0.9947355
+     24   M 20.66667 1.0353535
+     24   F 21.90909 1.0813915
+     27   M 22.86667 1.3096301
+     27   F 23.70000 1.1341730
+     30   M 24.75000 2.5360878
+     30   F 28.25000 2.5360878
+
+
+
+Hind tibia length:
+
+
+Effect of temperature & sex on tibia length
+
+(F = 4.358; df = 7, 304; p << 0.001
+
+Tukey groups:
+
+Females:
+
+TempNom   Length         SE Group
+     11 1.378333 0.02025848   ab 
+     15 1.405814 0.02393031   a  
+     18 1.329412 0.03805906   abc
+     21 1.271739 0.03272040    bc
+     22 1.342308 0.03077484   abc
+     24 1.293182 0.03345578   abc
+     27 1.250000 0.03508872     c
+     30 1.250000 0.07846076   abc
+
+(F = 3.632; df = 7, 207; p = 0.00102)
+
+Males:
+
+TempNom   Length         SE Group
+    11 1.193220 0.02101867     c
+    15 1.401282 0.02585229   a  
+    18 1.268966 0.02998004    bc
+    21 1.300000 0.02899682   abc
+    22 1.373810 0.03523073   ab 
+    24 1.270833 0.03295533    bc
+    27 1.240000 0.04168556    bc
+    30 1.125000 0.08072374    bc
+                          
+(F = 7.344; df = 7, 214; p << 0.001)
+
+
+Tab: Developmental rate
+(see plots already done)
+
+
+Tab: Emergence
+
+A quasibinomial GLM was used to analyse the effect of rearing
+temperature on the proportion of cocoons which emerged.  Highly
+significant effect of rearing temperature is evident: 
+(X2=112.6; df=5, disp = 1.8857; p = 1.725e-10)
+
+Percentage of cocoons emerging as adults
+
+      fit     se.fit
+11 67.90123 5.036903
+15 86.59794 4.749980
+18 83.63636 6.850058
+21 94.64286 4.131944
+22 97.91667 2.830084
+24 94.11765 4.524431
+27 84.09091 7.571972
+30 20.51282 8.879061
+
+(Generally standard errors on a percentage scale are not appropriate.
+In this case, they are given to give an indication of the variability
+of the fit)
+
+
+Tab: Adult Emergence
+
+Simple ANOVAs were used to test for the effects of temperature and Sex
+on the number of days until emergence and on the tibia length.
+Tukey's HSD was used to allow for the fact that multiple comarisons
+were being made and the degree of imbalance in the data.
+
+
+Expected number of days to emergence at 9 temperatures
+
+Significant effect of temperature 
+(F = 1064.09; df = 8, 829; p << 0.001)
+and of Sex 
+(F = 29.64; df = 1, 829; p << 0.001)
+
+The Tukey groupings look strange.  
+
+Males:
+
+TempNom      Days        SE Group
+      7 63.225806 0.9639741     e
+     11 34.763636 0.7237105 a    
+     15 18.403509 0.7109004  b   
+     18 14.872727 0.7237105   c  
+     21 11.215385 0.6657168    d 
+     22 11.916667 0.6325283   cd 
+     24 10.269231 0.7442940    d 
+     27  9.095238 0.8281739    d 
+     30  9.086957 1.1191345    d 
+
+Females:
+
+TempNom      Days        SE  Group
+      7 68.484375 0.7357119      f
+     11 35.857143 0.7865092 a     
+     15 21.291667 1.2014126  b    
+     18 16.348837 0.8975602   c   
+     21 14.333333 1.2843641   cd  
+     22 13.857143 0.9948641   cd  
+     24 12.085714 0.9948641    de 
+     27 11.519231 0.8161991    de 
+     30  9.526316 0.7795794     e 
+
+The algorithm gets its knickers in a twist and puts them in a strange
+order.  It should be possible to reletter them, say, changing "e" to
+"a", then bumping the other 4 on a letter, i.e. for Males; same idea
+with "f" for Female groupings.
+
+
+
+******************************************************************
+Tibia length 
+
+Significant effect of temperature 
+(F = 5.062; df = 8, 829; p << 0.001)
+and of Sex 
+(F = 7.158; df = 1, 829; p = 0.00761)
+
+Males:
+
+TempNom   Length         SE Group
+      7 1.303226 0.03012370    ab
+     11 1.267273 0.02261559    ab
+     15 1.357895 0.02221528    a 
+     18 1.272727 0.02261559    ab
+     21 1.286923 0.02080331    ab
+     22 1.277778 0.01976619    ab
+     24 1.202885 0.02325881     b
+     27 1.261905 0.02588002    ab
+     30 1.213043 0.03497239     b
+
+Females:
+
+TempNom   Length         SE Group
+      7 1.328125 0.02243610    ab
+     11 1.280357 0.02398520    ab
+     15 1.339583 0.03663800    ab
+     18 1.306977 0.02737178    ab
+     21 1.400000 0.03916767    a 
+     22 1.327143 0.03033914    ab
+     24 1.211429 0.03033914     b
+     27 1.303846 0.02489062    ab
+     30 1.265789 0.02377387    ab
+
+
+Grouping letters make more sense.
+
+
+All calculations done using R (R Core Team)
+
+
+
+
+  R Core Team (2013). R: A language and environment for statistical
+  computing. R Foundation for Statistical Computing, Vienna, Austria.
+  ISBN 3-900051-07-0, URL http://www.R-project.org/.

@@ -1,0 +1,66 @@
+Tab: Developmental time
+
+Days to develop and standard errors:
+
+ TempNom Sex     Days  Days.sem
+      15   M 46.03511 0.2553525
+      15   F 48.41002 0.2501187
+      18   M 29.88319 0.3115398
+      18   F 32.25809 0.3334742
+      21   M 23.63661 0.2936105
+      21   F 26.01152 0.3069882
+      22   M 21.45218 0.3230157
+      22   F 23.82709 0.3139579
+      24   M 20.12504 0.3194604
+      24   F 22.49995 0.3231299
+      27   M 21.98577 0.3681502
+      27   F 24.36067 0.3574729
+
+Hind tibia length:
+No significant effect of Sex on length
+F = 0.060, df = 1, 303, p = 0.8066
+
+Effect of temperature on length
+
+F = 7.6478, df = 5, 304, p << 0.001
+
+(From linear model predictions)
+ TempNom   Length         SE
+      15 1.403659 0.01773639
+      18 1.291304 0.02368063
+      21 1.287963 0.02185623
+      22 1.356383 0.02342735
+      24 1.281522 0.02368063
+      27 1.245714 0.02714801
+
+
+(using aggregate)
+ TempNom   Length         SE  N
+      15 1.403659 0.01466736 82
+      18 1.291304 0.02353455 46
+      21 1.287963 0.02633358 54
+      22 1.356383 0.01951167 47
+      24 1.281522 0.03078516 46
+      27 1.245714 0.02043348 35
+
+
+Call:
+lm(formula = Length ~ TempNom + Sex, data = devel.df)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-0.55840 -0.09415 -0.00711  0.09871  0.45585 
+
+Coefficients:
+             Estimate Std. Error t value Pr(>|t|)
+(Intercept)  1.405808   0.019812  70.956  < 2e-16
+TempNom18   -0.111654   0.029770  -3.751 0.000211
+TempNom21   -0.115251   0.028249  -4.080 5.77e-05
+TempNom22   -0.047406   0.029434  -1.611 0.108317
+TempNom24   -0.121928   0.029644  -4.113 5.04e-05
+TempNom27   -0.158157   0.032490  -4.868 1.82e-06
+SexM        -0.004519   0.018447  -0.245 0.806634
+
+Residual standard error: 0.1609 on 303 degrees of freedom
+Multiple R-squared: 0.1119,	Adjusted R-squared: 0.09432 
+F-statistic: 6.363 on 6 and 303 DF,  p-value: 2.527e-06 

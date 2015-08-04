@@ -1,0 +1,21 @@
+maleLong <- function(xx = Mlong.df)
+{
+### Purpose:-   Male longevity tab
+### ----------------------------------------------------------------------
+### Modified from:- 
+### ----------------------------------------------------------------------
+### Arguments:- 
+### ----------------------------------------------------------------------
+### Author:-   Patrick Connolly, Date:- 12 Nov 2014, 14:30
+### ----------------------------------------------------------------------
+### Revisions:- 
+
+
+browser()
+head(xx)
+  tbl_df(xx) %>%
+    group_by(Diet, Virgin) %>%
+      summarise_each(funs(mean, sem), Offspring)
+
+
+}

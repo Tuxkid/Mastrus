@@ -1,0 +1,96 @@
+offspringNo <- function(xx = offspringNo.df)
+{
+### Purpose:- Anovas, etc for Tab: Offspring produced P6-7
+### ----------------------------------------------------------------------
+### Modified from:- 
+### ----------------------------------------------------------------------
+### Arguments:- 
+### ----------------------------------------------------------------------
+### Author:-   Patrick Connolly, Date:- 12 Nov 2014, 15:58
+### ----------------------------------------------------------------------
+### Revisions:- 
+
+browser()
+
+head(xx)
+  tbl_df(xx) %>%
+    group_by(Diet, Virgin, Sex) %>%
+      summarise_each(funs(mean, sem), Development)
+
+  diet.aov <- aov(Development ~ Diet * Virgin  * Sex, data = xx)
+  anova(diet.aov)
+
+xxx <- xx[!xx$Diet %in% "Water only",]
+  diet.aov2 <- aov(Development ~ Diet * Virgin  * Sex, data = xxx)
+  anova(diet.aov2)
+  tbl_df(xxx) %>%
+    group_by(Diet, Virgin, Sex) %>%
+     summarise_each(funs(mean, sem), Development)
+
+## Virgin only
+xxV <- xx[xx$Virgin == "Virgin",]
+diet.aovV <- aov(Development ~ Diet , data = xxV)
+anova(diet.aovV)
+  model.tables(diet.aovV, type =  "means", se = TRUE)
+
+xxxV <- xxV[!xxV$Diet %in% "Water only",]
+diet.aovVV <- aov(Development ~ Diet , data = xxxV)
+anova(diet.aovVV)
+
+
+## Mated only
+xxM <- xx[xx$Virgin == "Mated",]
+diet.aovM <- aov(Development ~ Diet * Sex, data = xxM)
+anova(diet.aovM)
+
+xxxM <- xxM[!xxM$Diet %in% "Water only",]
+diet.aovMM <- aov(Development ~ Diet * Sex, data = xxxM)
+anova(diet.aovMM)
+anova(update(diet.aovMM, .~. -Diet:Sex))
+  tbl_df(xxxM) %>%
+    group_by(Diet, Sex) %>%
+      summarise_each(funs(mean, sem), Development)
+
+################## Size 
+
+  tbl_df(xx) %>%
+    group_by(Diet, Virgin, Sex) %>%
+      summarise_each(funs(mean, sem, N=length), Size)
+
+  diet.aov <- aov(Size ~ Diet * Virgin  * Sex, data = xx)
+  anova(diet.aov)
+
+xxx <- xx[!xx$Diet %in% "Water only",]
+  diet.aov2 <- aov(Size ~ Diet * Virgin  * Sex, data = xxx)
+  anova(diet.aov2)
+  tbl_df(xxx) %>%
+    group_by(Diet, Virgin, Sex) %>%
+     summarise_each(funs(mean, sem, N=length), Size)
+
+xxM <- xx[xx$Sex == "Male", ] # (not Mated as above)
+  diet.aovM <- aov(Size ~ Diet * Virgin, data = xxM)
+  anova(diet.aovM)
+  tbl_df(xxM) %>%
+    group_by(Diet, Virgin) %>%
+     summarise_each(funs(mean, sem, N=length), Size)
+
+xxF <- xx[xx$Sex == "Female", ] #
+  diet.aovF <- aov(Size ~ Diet, data = xxF)
+  anova(diet.aovF)
+  tbl_df(xxF) %>%
+    group_by(Diet, Virgin) %>%
+     summarise_each(funs(mean, sem, N=length), Size)
+
+
+xxxM <- xxx[xxx$Sex == "Male", ] # (not Mated as above)
+  diet.aov2M <- aov(Size ~ Diet * Virgin, data = xxxM)
+  anova(diet.aov2M)
+  tbl_df(xxxM) %>%
+    group_by(Diet, Virgin) %>%
+     summarise_each(funs(mean, sem, N=length), Size)
+
+xxxF <- xxx[xxx$Sex == "Female", ] # 
+  diet.aov2F <- aov(Size ~ Diet , data = xxxF)
+  anova(diet.aov2F)
+
+}

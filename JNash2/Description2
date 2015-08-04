@@ -1,0 +1,33 @@
+As before, xxM and xxF can be obtained by
+
+xxM <- dget("xxM")
+xxF <- dget("xxF")
+
+The attached file, Non-linearFit8temperatures.pdf has been produced
+using the following calls to nlxb (along with a lot of plotting code)..
+
+
+nlxb(Dev ~ exp(tau * (T - Tmin)) + lam -
+     exp(rho*Tmax - (Tmax - T)/del), data = xxM, ## trace = TRUE, 
+     lower = c(tau = .006, rho = .001, del = 3, Tmax = 28, Tmin = .2, lam = -5),
+     upper = c(tau = 1.6, rho = 1.3, del = 11, Tmax = 39, Tmin = 6.25, lam = -.002),
+     start = c(tau = .15, rho = .13, del = 4, Tmax = 30, Tmin = 4, lam = -4.5))
+
+...and...
+
+nlxb(Dev ~ exp(tau * (T - Tmin)) + lam -
+     exp(rho*Tmax - (Tmax - T)/del), data = xxF, ## trace = TRUE, 
+     lower = c(tau = .006, rho = .001, del = 3, Tmax = 28, Tmin = .2, lam = -5),
+     upper = c(tau = 1.6, rho = 1.3, del = 11, Tmax = 39, Tmin = 7, lam = -.002),
+     start = c(tau = .15, rho = .13, del = 4, Tmax = 30, Tmin = 4, lam = -4.5))
+
+
+
+When we add in the fact that 7deg was also tried but nothing
+developed, it appears as though the linear approximation is rather
+good.  The high temperature end is not very convincing.  Evidently the
+drop off is not as marked as this model would indicate.  27deg is
+over-estimated and 30deg is under-estimated.
+
+A colleague suggested that a skewed Gaussian would give more realistic
+tails.  Have you had any experience with such a shape?

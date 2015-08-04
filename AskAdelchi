@@ -1,0 +1,33 @@
+On Thu, 23-Jul-2015 at 01:01PM +0200, Adelchi Azzalini wrote:
+
+|> 
+|> > On 23 Jul 2015, at 10:51, Patrick Connolly <p_connolly@slingshot.co.nz> wrote:
+|> > 
+|> > 
+|> > Is it covered in your book?  Your book is aimed at a much more
+|> > developed level than I require so I might have overlooked it.
+|> 
+|> Hi.  The question is not discussed explicitly with this header in the book.
+|> One can get the idea of how to proceed by the example in Section 3.1.6;
+|> see in particular Figure 3.7(a).  This case refers to the SN distribution, 
+|> but the principle is the same for the ST. See also Figure 4.10 and
+|> related text.
+
+Hello Adelchi,
+
+I see that's doing something rather less involved than what I had in
+mind.  Perhaps I misunderstood what selm does.  
+
+My aim was to get a more plausible fit to the pink and blue points in
+the attached PDF, in particular where they meet the x-axis.  The
+custom in that line of research is to extrapolate the linear fit
+(thick lines) which is ignoring a lot of available information.  While
+that might be sufficient for the low temperature end, the high
+temperature end is sometimes important.
+
+The shape of the density of a skewed-normal or -t looks more realistic
+and I figured it would be possible to obtain a fit using the selm
+function.  I thought it would be similar to obtaining predictions from
+a Poisson GLM using the model coefficients. Is that possible?
+
+

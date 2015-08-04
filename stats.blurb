@@ -1,0 +1,166 @@
+Tab: Developmental time
+
+Simple ANOVAs were used to test for the effects of temperature and Sex
+on the number of days until emergence and on the tibia length.
+Tukey's HSD was used to allow for the fact that multiple comarisons
+were being made and the degree of imbalance in the data.
+
+Days to develop and standard errors:
+
+ TempNom Sex     Days        SE
+      15   M 46.03511 0.2553525
+      15   F 48.41002 0.2501187
+      18   M 29.88319 0.3115398
+      18   F 32.25809 0.3334742
+      21   M 23.63661 0.2936105
+      21   F 26.01152 0.3069882
+      22   M 21.45218 0.3230157
+      22   F 23.82709 0.3139579
+      24   M 20.12504 0.3194604
+      24   F 22.49995 0.3231299
+      27   M 21.98577 0.3681502
+      27   F 24.36067 0.3574729
+
+Hind tibia length:
+No significant effect of Sex on length
+(F = 0.060; df = 1, 303; p = 0.8066)
+
+Effect of temperature on length
+
+(F = 7.6478; df = 5, 304; p << 0.001
+
+Tukey groups:
+(From linear model predictions)
+  TempNom   Length         SE Group
+1      15 1.403659 0.01773639     c
+2      18 1.291304 0.02368063   ab 
+3      21 1.287963 0.02185623   ab 
+4      22 1.356383 0.02342735   a c
+5      24 1.281522 0.02368063   ab 
+6      27 1.245714 0.02714801    b     
+
+(swapping groups a and b makes more sense:
+affects 4 and 6 only)
+
+
+
+Tab: Developmental rate
+(see plots already done)
+
+
+Tab: Emergence
+
+A quasibinomial GLM was used to analyse the effect of rearing
+temperature on the proportion of cocoons which emerged.  No
+significance of rearing temperature is evident: 
+(X2=12.193; df=5, disp = 1.668267; p = 0.1987)
+
+Proportion of cocoons emerging as adults
+
+         fit     se.fit
+15 0.8659794 0.04467726
+18 0.8363636 0.06443012
+21 0.9464286 0.03886414
+22 0.9791667 0.02661915
+24 0.9411765 0.04255579
+27 0.8409091 0.07122028
+
+(Generally standard errors on a percentage scale are not appropriate,
+but in this case, the means are close enough for the error to be negligible)
+
+
+Tab: Adult Emergence
+
+Simple ANOVAs were used to test for the effects of temperature and Sex
+on the number of days until emergence and on the tibia length.
+Tukey's HSD was used to allow for the fact that multiple comarisons
+were being made and the degree of imbalance in the data.
+
+
+Expected number of days to emergence at 6 temperatures
+
+ TempNom Sex      Days        SE
+      15   M 18.403509 0.3872152
+      15   F 21.291667 0.5967387
+      18   M 14.872727 0.3941926
+      18   F 16.348837 0.4458160
+      21   M 11.215385 0.3626045
+      21   F 14.333333 0.6379405
+      22   M 11.916667 0.3445273
+      22   F 13.857143 0.4941466
+      24   M 10.269231 0.4054041
+      24   F 12.085714 0.4941466
+      27   M  9.095238 0.4510921
+      27   F 11.519231 0.4054041
+ 
+Significant effect of temperature 
+(F = 112.37; df = 5, 546; p << 0.001)
+and of Sex 
+(F = 70.50; df = 1, 546; p << 0.001)
+
+The Tukey groupings look strange.  
+
+Males:
+
+TempNom      Days        SE Group
+     15 18.403509 0.3872152     e
+     18 14.872727 0.3941926 a    
+     21 11.215385 0.3626045  bc  
+     22 11.916667 0.3445273  b   
+     24 10.269231 0.4054041   cd 
+     27  9.095238 0.4510921    d 
+
+Females:
+
+TempNom     Days        SE Group
+     15 21.29167 0.5967387     e
+     18 16.34884 0.4458160 a    
+     21 14.33333 0.6379405 ab   
+     22 13.85714 0.4941466  bc  
+     24 12.08571 0.4941466   cd 
+     27 11.51923 0.4054041    d 
+
+The algorithm gets its knickers in a twist and puts them in a strange
+order.  It should be possible to reletter them, say, changing "e" to
+"a", then bumping the other 4 on a letter, but I'm not sure it makes
+sense in this case anyway:
+
+******************************************************************
+Tibia length 
+
+Significant effect of temperature 
+(F = 6.9852; df = 5, 546; p << 0.001)
+and of Sex 
+(F = 6.1185; df = 1, 546; p = 0.01368)
+
+Males:
+
+ TempNom   Length         SE Group
+      15 1.357895 0.02218279     b
+      18 1.272727 0.02258252    ab
+      21 1.286923 0.02077289    ab
+      22 1.277778 0.01973729    ab
+      24 1.202885 0.02322480    a 
+      27 1.261905 0.02584217    ab
+
+Females:
+
+ TempNom   Length         SE Group
+      15 1.339583 0.03418598    ab
+      18 1.306977 0.02553992    ab
+      21 1.400000 0.03654635     b
+      22 1.327143 0.02830868    ab
+      24 1.211429 0.02830868    a 
+      27 1.303846 0.02322480    ab
+
+Grouping letters make more sense.
+
+
+All calculations done using R (R Core Team)
+
+
+
+
+  R Core Team (2013). R: A language and environment for statistical
+  computing. R Foundation for Statistical Computing, Vienna, Austria.
+  ISBN 3-900051-07-0, URL http://www.R-project.org/.

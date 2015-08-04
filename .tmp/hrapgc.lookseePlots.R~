@@ -1,0 +1,65 @@
+lookseePlots <- function()
+{
+### Purpose:- 
+### ----------------------------------------------------------------------
+### Modified from:- 
+### ----------------------------------------------------------------------
+### Arguments:- 
+### ----------------------------------------------------------------------
+### Author:-   Patrick Connolly, Date:- 16 May 2013, 16:08
+### ----------------------------------------------------------------------
+### Revisions:-
+
+
+trellis.device("pdf", file = "MastrusOverview.pdf", height = 280/25/4.
+               width = 180/25.4)
+##
+trellis.par.set(kullas())
+remove.shading()
+on.exit(dev.off())
+
+## Tab Female longevity with no hosts
+flnhPik <- bwplot(Diet ~ Longevity , data = FlongNohost.df,
+       main = "Tab: Female longevity with no hosts")
+flnhPik2 <- bwplot(Diet ~ Tibia , data = FlongNohost.df,
+       main = "Tab: Female longevity with no hosts")
+
+print(flnhPik, layout = c(0, .5, 1, 1))
+print(flnhPik2, layout = c(0, 0, 1, .5))
+
+if(FALSE){
+## Tab Female longevity with hosts
+flhPik <- bwplot(Diet ~ Longevity | Virgin, data = FlongHost.df,
+                 main = "Tab: Female longevity with hosts", layout = c(1,2))
+flhPik2 <- bwplot(Virgin ~ Longevity | Diet, data = FlongHost.df,
+                 main = "Tab: Female longevity with hosts", layout = c(1,3))
+flhPik3 <- bwplot(Diet ~ Tibia | Virgin, data = FlongHost.df,
+                 main = "Tab: Female longevity with hosts", layout = c(1,2))
+flhPik4 <- bwplot(Virgin ~ Tibia | Diet, data = FlongHost.df,
+                 main = "Tab: Female longevity with hosts", layout = c(1,3))
+
+
+fecHostPik3 <- bwplot(Diet ~ Fecundity | Virgin, data = FlongHost.df,
+                      layout = c(1,2), main = "Tab: Female longevity with hosts")
+fecHostPik4 <- bwplot(Virgin ~ Fecundity |Diet , data = FlongHost.df,
+                      layout = c(1,3), main = "Tab: Female longevity with hosts")
+## male longevity
+maleLong1 <- bwplot(Diet ~ Longevity, data = Mlong.df,
+                    main = "Tab: Male longevity")
+maleLong1 <- bwplot(Diet ~ Tibia, data = Mlong.df,
+                    main = "Tab: Male longevity")
+## Offspring produced
+pikSize1 <- bwplot(Diet ~ Size | Virgin + Sex, data = offspringNo.df,
+                   main = "Tab: Offspring produced", layout = c(2,2))
+pikSize2 <- bwplot(Virgin ~ Size |Sex  + Diet, data = offspringNo.df,
+                   main = "Tab: Offspring produced")
+pikDev1 <- bwplot(Diet ~ Development | Virgin + Sex, data = offspringNo.df,
+                  main = "Tab: Offspring produced")
+pikDev2 <- bwplot(Virgin ~ Development |Sex  + Diet, data = offspringNo.df,
+                  main = "Tab: Offspring produced")
+
+}
+
+
+  
+}

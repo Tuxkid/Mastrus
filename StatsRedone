@@ -1,0 +1,254 @@
+John,
+
+I've done what might keep them happy.  I found a lot of degrees of
+freedom information which I couldn't think of a non-cluttering way to
+present. There's typically between 100 annd 110 degrees of freedom
+which are used in the t-statistic probability calculations.  When they
+get that high, it makes sodd all difference.
+
+
+
+Statistical methods
+
+The numbers of parasitoid eggs laid on paralysed larvae of each
+non-target species, and survival to adult, were compared with those on
+codling moth larvae. A negative binomial model from the MASS package
+(Venables and Ripley 2002) with R (R Development Core Team 2011) was
+chosen for its ability to estimate the extent of substantial
+overdispersion. 
+
+Sex ratios of emerging adults were compared with what
+would be expected in a population of equal occurrence of males and
+females using the stats R package function prop.test(). 
+
+The standard R generalised linear model (GLM) was used with the
+default gaussian link to compare the sizes of adults that developed on
+non-target larvae with those from codling moth larvae, allowing for a
+difference between male and female.  An anova of the GLM showed no
+substantial effect of sex on the size of the adults (F=1.5125,
+df=1,100, p=0.2217).  Consequently, the model was simplified to test
+if M. ridens that emerged from non-target species were smaller than
+those from codling moth.
+
+****************************************************************************
+
+
+Other paper:
+
+
+The pre-contact and examination times were analysed to ascertain which
+were different from the corresponding ones for the empty tissue.
+Coefficients from a simple linear model in R (R Development Core Team)
+were obtained and the probabilities of obtaining each of them if the
+larvae or pupae were from a population which exhibited no difference
+from empty tissue were calculated.
+
+The TukeyHSD() from the stats R package was used to group species.
+The function makes adjustment to the critical significant difference
+to allow for the fact that multiple comparisons are being made and the
+substantial imbalance in the number of individuals in the species
+studied.
+
+
+
+
+Pre contact time
+
+                         Time    SE      P grouping
+Empty tissue             0.74 0.991     NA      ab 
+Argyroploce chlorosaris  3.08 1.229 0.0605      ab 
+Ctenopseustis obliquana  1.99 1.292 0.3367      ab 
+Cydia pomonella          3.38 1.246 0.0373      a  
+Cydia pomonellaP        11.57 1.401 0.0000        c
+Cydia succedana          1.08 1.167 0.7712      ab 
+Grapholita molesta       0.37 1.151 0.7467       b 
+Planotortrix octo        0.14 1.167 0.6094       b 
+
+
+Examination time
+
+                         Time    SE      P grouping
+Empty tissue            20.57 5.120     NA       ab
+Argyroploce chlorosaris 16.31 6.350 0.5032       ab
+Ctenopseustis obliquana 14.90 6.675 0.3972       ab
+Cydia pomonella          5.11 5.572 0.0064       a 
+Cydia pomonellaP        11.00 7.241 0.1886       ab
+Cydia succedana         18.74 5.989 0.7599        b
+Grapholita molesta      24.33 5.912 0.5257        b
+Planotortrix octo       26.22 6.034 0.3508        b
+
+# Using these numbers
+
+                  Species Mridens Sweep Tap Ovipositor Terebra Oviposition
+1         Cydia pomonella      30    30  30         30      30          30
+2 Argyroploce chlorosaris      13    13  12          8       4           4
+3 Ctenopseustis obliquana      31    24  12          9       3           3
+4         Cydia succedana      19    10  10          4       0           0
+5      Grapholita molesta      21     9   3          1       0           0
+6       Planotortrix octo      18     6   2          0       0           0
+
+
+Fisher's Exact test on all responses
+
+Comparing Argyroploce chlorosaris with Cydia pomonella 
+      Sweep         Tap  Ovipositor     Terebra Oviposition 
+     1.0000      0.3182      0.0050      0.0001      0.0001 
+
+Comparing Ctenopseustis obliquana with Cydia pomonella 
+      Sweep         Tap  Ovipositor     Terebra Oviposition 
+     0.0151      0.0000      0.0000      0.0000      0.0000 
+
+Comparing Cydia succedana with Cydia pomonella 
+      Sweep         Tap  Ovipositor     Terebra Oviposition 
+      6e-04       6e-04       0e+00       0e+00       0e+00 
+
+Comparing Ctenopseustis obliquana with Cydia succedana 
+      Sweep         Tap  Ovipositor     Terebra Oviposition 
+     0.2502      0.6328      0.8277      0.8376      0.8376 
+
+Comparing Ctenopseustis obliquana with Grapholita molesta 
+      Sweep         Tap  Ovipositor     Terebra Oviposition 
+     0.1110      0.5175      0.5341      0.8419      0.8419 
+
+Comparing Ctenopseustis obliquana with Planotortrix octo 
+      Sweep         Tap  Ovipositor     Terebra Oviposition 
+     0.0607      0.5002      0.5163      0.8353      0.8353 
+
+Comparing Grapholita molesta with Planotortrix octo 
+      Sweep         Tap  Ovipositor     Terebra Oviposition 
+     0.8001      1.0000      1.0000      1.0000      1.0000 
+
+Comparing Argyroploce chlorosaris with Planotortrix octo 
+      Sweep         Tap  Ovipositor     Terebra Oviposition 
+     0.0081      0.0092      0.1514      0.5919      0.5919 
+
+Comparing Argyroploce chlorosaris with Ctenopseustis obliquana 
+      Sweep         Tap  Ovipositor     Terebra Oviposition 
+     0.1695      0.0471      0.4026      0.6261      0.6261 
+
+Comparing Argyroploce chlorosaris with Cydia succedana 
+      Sweep         Tap  Ovipositor     Terebra Oviposition 
+     0.0377      0.1249      0.3701      0.5949      0.5949 
+
+Comparing Argyroploce chlorosaris with Grapholita molesta 
+      Sweep         Tap  Ovipositor     Terebra Oviposition 
+     0.0106      0.0099      0.1615      0.6004      0.6004 
+
+
+
+
+Though numbers in Ovipositor are not independent of those in Tap, etc,
+that fact matters not since the non-independent numbers are never
+compared with one another.  Each time the comparison is with the
+corresponding response for the "control" species.  Only 4 numbers are
+analysed in any one p-value calculation.  The calculation is done
+separately for each stage in the Oviposition process.
+
+It will be quite different from the Chisquare test particularly with
+small numbers and we have a lot of those.  IMHO, the only one of
+relevance is the Oviposition lot and they're always clear cut, so even
+if you wanted to make an adjustment (which I suspect they might
+claim), one can simply adjust the level of alpha which won't be very
+remarkable.  Someone might get interested in the finer details of
+what's involved in the Oviposition process and *might* find the
+intervening stages interesting.
+
+Browse[1]> coefs
+                                Estimate Std. Error  t value     Pr(>|t|)
+(Intercept)                     5.107895   2.197435 2.324481 2.171283e-02
+SpeciesArgyroploce chlorosaris 11.199798   4.352406 2.573243 1.124293e-02
+SpeciesCtenopseustis obliquana  9.792105   4.814338 2.033946 4.407329e-02
+SpeciesCydia pomonellaP         5.892105   5.571513 1.057541 2.923041e-01
+SpeciesCydia succedana         13.628947   3.806068 3.580847 4.887128e-04
+SpeciesEmpty tissue            15.463534   5.571513 2.775464 6.359622e-03
+SpeciesGrapholita molesta      19.225439   3.683259 5.219681 7.238942e-07
+SpeciesPlanotortrix octo       21.114327   3.875910 5.447579 2.604126e-07
+Browse[1]> yy.lm$df.residual
+[1] 125
+Browse[1]> Q
+> observeC("examine")
+Called from: observeC("examine")
+Browse[1]> yy.lm$df.residual
+[1] 97
+Browse[1]> coefs
+                                 Estimate Std. Error    t value     Pr(>|t|)
+(Intercept)                     3.3750000  0.7565848  4.4608353 2.199127e-05
+SpeciesArgyroploce chlorosaris -0.2980769  1.0491943 -0.2841008 7.769387e-01
+SpeciesCtenopseustis obliquana -1.3850000  1.1221965 -1.2341867 2.201151e-01
+SpeciesCydia pomonellaP         8.1964286  1.2464801  6.5756591 2.448110e-09
+SpeciesCydia succedana         -2.2916667  0.9767467 -2.3462241 2.099946e-02
+SpeciesEmpty tissue            -2.6321429  1.2464801 -2.1116605 3.728549e-02
+SpeciesGrapholita molesta      -3.0050000  0.9570124 -3.1399801 2.239523e-03
+SpeciesPlanotortrix octo       -3.2305556  0.9767467 -3.3074650 1.321366e-03
+Browse[1]> 
+
+
+Binomial GLMs would use a Chisquare approximation in their tests which
+would be inappropriate when such small numbers are often observed
+(fewer than 5).  Instead Fisher's Exact test has been used to compare
+the ratios of the number of insects that displayed the specific
+behaviours.
+
+
+# 6/3/13: corrected versions of above:
+
+Comparing Argyroploce chlorosaris with Cydia pomonella 
+      Sweep         Tap  Ovipositor     Terebra Oviposition 
+     1.0000      0.3023      0.0013      0.0000      0.0000 
+
+Comparing Ctenopseustis obliquana with Cydia pomonella 
+      Sweep         Tap  Ovipositor     Terebra Oviposition 
+     0.0107      0.0000      0.0000      0.0000      0.0000 
+
+Comparing Cydia succedana with Cydia pomonella 
+      Sweep         Tap  Ovipositor     Terebra Oviposition 
+          0           0           0           0           0 
+
+Comparing Ctenopseustis obliquana with Cydia succedana 
+      Sweep         Tap  Ovipositor     Terebra Oviposition 
+     0.1171      0.3888      0.7415      0.2788      0.2788 
+
+Comparing Ctenopseustis obliquana with Grapholita molesta 
+      Sweep         Tap  Ovipositor     Terebra Oviposition 
+     0.0184      0.0690      0.0361      0.2636      0.2636 
+
+Comparing Ctenopseustis obliquana with Planotortrix octo 
+      Sweep         Tap  Ovipositor     Terebra Oviposition 
+     0.0053      0.0524      0.0177      0.2883      0.2883 
+
+Comparing Grapholita molesta with Planotortrix octo 
+      Sweep         Tap  Ovipositor     Terebra Oviposition 
+     0.7424      1.0000      1.0000      1.0000      1.0000 
+
+Comparing Argyroploce chlorosaris with Planotortrix octo 
+      Sweep         Tap  Ovipositor     Terebra Oviposition 
+     0.0001      0.0000      0.0002      0.0227      0.0227 
+
+Comparing Argyroploce chlorosaris with Ctenopseustis obliquana 
+      Sweep         Tap  Ovipositor     Terebra Oviposition 
+     0.0857      0.0020      0.0874      0.1695      0.1695 
+
+Comparing Argyroploce chlorosaris with Cydia succedana 
+      Sweep         Tap  Ovipositor     Terebra Oviposition 
+     0.0042      0.0237      0.0300      0.0199      0.0199 
+
+Comparing Argyroploce chlorosaris with Grapholita molesta 
+      Sweep         Tap  Ovipositor     Terebra Oviposition 
+     0.0006      0.0000      0.0005      0.0154      0.0154 
+
+Comparing Cydia succedana with Grapholita molesta 
+      Sweep         Tap  Ovipositor     Terebra Oviposition 
+     0.7518      0.0171      0.1723      1.0000      1.0000 
+
+
+The numbers of parasitoids which responded to each species were
+compared using the Fisher's Exact test.  All species were individually
+compared with codling moth and the pair-wise process continued
+successively with the remaining fisher.test()
+
+
+
+
+Response categories were
+compared two species at a time
+

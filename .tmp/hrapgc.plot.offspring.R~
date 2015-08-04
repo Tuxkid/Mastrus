@@ -1,0 +1,19 @@
+plot.offspring <- function(xx = offspring.df)
+{
+### Purpose:- Offspring produced per day by 10 females
+### ----------------------------------------------------------------------
+### Modified from:- 
+### ----------------------------------------------------------------------
+### Arguments:- 
+### ----------------------------------------------------------------------
+### Author:-   Patrick Connolly, Date:-  4 Nov 2014, 10:43
+### ----------------------------------------------------------------------
+### Revisions:- 
+offs <- apply(xx[1:30, -11], 1, FUN= sum, na.rm = TRUE)
+days <- offspring.df$Day[1:30]
+browser()
+plot(offs ~ days)
+
+
+
+}

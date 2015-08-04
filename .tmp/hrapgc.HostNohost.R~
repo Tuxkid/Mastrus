@@ -1,0 +1,24 @@
+HostNohost <- function(xx = combined.df)
+{
+### Purpose:- 
+### ----------------------------------------------------------------------
+### Modified from:- 
+### ----------------------------------------------------------------------
+### Arguments:- 
+### ----------------------------------------------------------------------
+### Author:-   Patrick Connolly, Date:- 13 Nov 2014, 14:58
+### ----------------------------------------------------------------------
+### Revisions:-
+
+browser()
+
+head(xx)
+  tbl_df(xx) %>%
+    group_by(Diet, Virgin, Sex) %>%
+      summarise_each(funs(mean, sem), Development)
+
+  diet.aov <- aov(Development ~ Diet * Virgin  * Sex, data = xx)
+  anova(diet.aov)
+
+  
+}

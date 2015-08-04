@@ -1,0 +1,23 @@
+plot.parasite <- function(xx = parasitised.df, span = 0.6)
+{
+### Purpose:- Number of hosts parasitised per day
+### ----------------------------------------------------------------------
+### Modified from:- 
+### ----------------------------------------------------------------------
+### Arguments:- 
+### ----------------------------------------------------------------------
+### Author:-   Patrick Connolly, Date:-  4 Nov 2014, 14:32
+### ----------------------------------------------------------------------
+ 
+  offs <- apply(xx[1:30, -1], 1, FUN= sum, na.rm = TRUE)/10
+  days <- offspring.df$Day[1:30]
+#  
+  plot(offs ~ days, xlab = "Days", ylab = "Hosts parasitised per day per adult female")
+  off.lo <- loess(offs ~ days, degree = 2, span = span)
+  off.lo.pred <- predict(off.lo, se = TRUE)
+  sems <- rms(off.lo.pred$se.fit) # overall fitting error
+  
+  spline.off <- spline(days, off.lo.pred$fit, n = 400)
+  with(spline.off, lines(x, y))
+  bar.legs(xp = 0.85, yp = 0.9, ebv = sems, labs = "SE of fit", colour = F,
+    pchs = NULL, ltys = NULL)

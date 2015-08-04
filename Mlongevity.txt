@@ -1,0 +1,30 @@
+Diet	Longevity	Tibia
+Water only	5.00	1.55
+Water only	5.00	1.40
+Water only	6.00	1.40
+Water only	5.00	1.40
+Water only	4.00	1.50
+Water only	4.00	1.40
+Water only	5.00	1.50
+Water only	5.00	1.45
+Water only	2.00	1.25
+Water only	4.00	1.50
+Water only	5.00	1.50
+Undiluted honey and water	22.00	1.30
+Undiluted honey and water	18.00	1.25
+Undiluted honey and water	10.00	1.55
+Undiluted honey and water	7.00	1.50
+Undiluted honey and water	15.00	1.55
+Undiluted honey and water	31.00	1.15
+Undiluted honey and water	15.00	1.40
+Undiluted honey and water	48.00	1.50
+Undiluted honey and water	34.00	1.40
+Honey agar diet and water	25.00	1.40
+Honey agar diet and water	47.00	1.55
+Honey agar diet and water	28.00	1.50
+Honey agar diet and water	7.00	1.40
+Honey agar diet and water	37.00	1.25
+Honey agar diet and water	35.00	1.40
+Honey agar diet and water	29.00	1.50
+Honey agar diet and water	23.00	1.40
+Honey agar diet and water	28.00	1.50

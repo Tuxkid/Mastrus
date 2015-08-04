@@ -1,0 +1,46 @@
+
+
+Getting predictions for skewed t-distribution
+
+
+The data I have is Development rate (from 0.009 to 0.05) as a function
+of temperature (10 to 30).
+
+After a lot of fiddling with initial values, I managed to make a
+non-linear fit involving exponential increases and decreases.  But it
+looks overly complicated and biologically unconvincing in part.  The
+general form of a skewed t-distribution looks more appropriate so I
+tried an R package which produced these so-called Direct Parameter
+coefficients:
+
+(Intercept.DP)              T          omega          alpha             nu 
+  -0.015895099    0.002689226    0.002306132   -5.660870446    1.473210455 
+
+I wish to get predictions of Development for values of T between 10
+and 32 but I can't figure out how to use those coefficients.  The
+first two are intercept and slope, while 'nu' is the effective degrees
+of freedom.  The other two relate to scale and slant in ways I've been
+unable to establish.
+
+There are sometimes alternative Cumulative Parameter coefficients
+availablle (but not in this case).  For the corresponding skew-Normal
+(were it appropriate) they would be:
+
+ (Intercept.CP)               T            s.d.          gamma1 
+-0.018365754902  0.002562849559  0.004336585489 -0.928787906259 
+
+It has no nu parameter since it has infinite degrees of freedom.  That
+much is clear but how s.d. and gamma1 relate to omega and alpha I
+can't decypher from the dense documentation.  Maybe it's unnecessary
+to know in order to get the predictions.
+
+With an ordinary linear model or glm, even without a prediction
+method, it's fairly simple to get predictions from a range of values
+of the independent variable/s.  For a skewed-t it's evidently less
+straightforward. 
+
+If anyone has had experience with such, I'd appreciate some pointers.
+
+
+
+ 
