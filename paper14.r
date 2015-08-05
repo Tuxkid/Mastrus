@@ -265,3 +265,20 @@ FlongHost() # P2-4
 maleLong() # P5
 offspringNo() # P6-7
 HostNohost() # P9-10  >>> Diets_mating_tests_Out.docx
+
+
+###################################################################################
+##
+## Send to github
+##
+####################################################################
+
+git config --global user.name "Tuxkid"
+git config --global core.editor "emacs"
+
+git init
+git add .
+git commit
+git remote add origin https://github.com/Tuxkid/Mastrus.git 
+git push -u origin master
+####################################################################
